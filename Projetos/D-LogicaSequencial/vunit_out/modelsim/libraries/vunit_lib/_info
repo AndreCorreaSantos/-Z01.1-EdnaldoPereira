@@ -1,13 +1,17 @@
 m255
 K4
 z2
+<<<<<<< HEAD
 !s11e vcom 2020.1 2020.02, Feb 28 2020
+=======
+>>>>>>> main
 13
 !s112 1.1
 !i10d 8192
 !i10e 25
 !i10f 100
 cModel Technology
+<<<<<<< HEAD
 Z0 d/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial
 Pansi_pkg
 Z1 DPx9 vunit_lib 17 codec_builder_pkg 0 22 lMzaQB]AGo[9c?7g60J_93
@@ -2397,3 +2401,6 @@ R48
 !i113 1
 R21
 R22
+=======
+d/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial
+>>>>>>> main
