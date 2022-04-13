@@ -23,7 +23,7 @@ entity TopLevel is
 		HEX0	  : out std_logic_vector(6 downto 0);
 		HEX1	  : out std_logic_vector(6 downto 0);
 		HEX2	  : out std_logic_vector(6 downto 0);
-		HEX3	  : out std_logic_vector(6 downto 0);
+		HEX3	  : out std_logic_vector(6 downto 0)
 	);
 end entity;
 
@@ -39,6 +39,7 @@ architecture rtl of TopLevel is
   signal x : std_logic_vector(15 downto 0) := x"0073"; -- 115
   signal y : std_logic_vector(15 downto 0) := x"005F"; -- 95
   signal zxout, zyout, nxout, nyout, andout, adderout, muxout, precomp : std_logic_vector(15 downto 0);
+
 --------------
 -- component
 --------------
@@ -148,31 +149,30 @@ begin
 	
 	compf : comparador16 port map(
 		a => precomp,
-		zr => zr,
-		ng => ng
+		zr => LEDR(0),
+		ng => LEDR(1)
 	);
 
-LEDR(0) <= ng;
-LEDR(1) <= zr;
+
 
 s1 : sevenSeg port map(
 	bcd => precomp(3 downto 0),
-	leds => HEX(0)
+	leds => HEX0
 );
 
 s2 : sevenSeg port map(
 	bcd => precomp(7 downto 4),
-	leds => HEX(1)
+	leds => HEX1
 );
 
 s3 : sevenSeg port map(
 	bcd => precomp(11 downto 8),
-	leds => HEX(2)
+	leds => HEX2
 );
 
 s4 : sevenSeg port map(
 	bcd => precomp(15 downto 12),
-	leds => HEX(3)
+	leds => HEX3
 );
 
-end rtl;
+end architecture;
