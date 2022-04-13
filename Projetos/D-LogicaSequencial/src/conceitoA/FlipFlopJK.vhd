@@ -15,7 +15,23 @@ entity FlipFlopJK is
 end entity;
 
 architecture arch of FlipFlopJK is
+signal saida : std_logic;
 
 begin
+
+	process(clock) begin
+		if (rising_edge(clock)) then
+			if (J = '1' and K = '0') then
+				q <= '1';
+				notq <= '0';
+			elsif (J = '0' and  K = '1') then
+				q <= '0';
+				notq <= '1';
+			elsif (J = '1' and K='1')  then
+				q <= not q;
+				notq <= not notq;
+			end if;
+		end if;
+	end process;
 
 end architecture;
