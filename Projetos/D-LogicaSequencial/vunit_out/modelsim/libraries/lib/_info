@@ -8,27 +8,26 @@ z2
 !i10e 25
 !i10f 100
 cModel Technology
-<<<<<<< HEAD
-Z0 d/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial
+Z0 d/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial
 Eadd16
-Z1 w1648654005
+Z1 w1648661434
 Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
 Z3 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
-!i122 25
+!i122 24
 R0
-Z4 8/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/C-UnidadeLogicaAritmetica/src/Add16.vhd
-Z5 F/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/C-UnidadeLogicaAritmetica/src/Add16.vhd
+Z4 8/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/C-UnidadeLogicaAritmetica/src/Add16.vhd
+Z5 F/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/C-UnidadeLogicaAritmetica/src/Add16.vhd
 l0
 Z6 L11 1
 VKKFl:=d]<k[PgR[6V5=E[3
 !s100 F@Mk5:d591DY`;0n3=fGC2
 Z7 OV;C;2020.1;71
 33
-Z8 !s110 1649870592
+Z8 !s110 1649968238
 !i10b 1
-Z9 !s108 1649870592.000000
-Z10 !s90 -quiet|-modelsimini|/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/C-UnidadeLogicaAritmetica/src/Add16.vhd|
-Z11 !s107 /home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/C-UnidadeLogicaAritmetica/src/Add16.vhd|
+Z9 !s108 1649968238.000000
+Z10 !s90 -quiet|-modelsimini|/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/C-UnidadeLogicaAritmetica/src/Add16.vhd|
+Z11 !s107 /home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/C-UnidadeLogicaAritmetica/src/Add16.vhd|
 !i113 1
 Z12 o-quiet -2008 -work lib
 Z13 tExplicit 1 CvgOpt 0
@@ -36,7 +35,7 @@ Artl
 R2
 R3
 DEx4 work 5 add16 0 22 KKFl:=d]<k[PgR[6V5=E[3
-!i122 25
+!i122 24
 l33
 L20 144
 V65DSQZed4fZaILnD?Z@mM2
@@ -55,21 +54,21 @@ Ealu
 R1
 R2
 R3
-!i122 26
+!i122 25
 R0
-Z14 8/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/C-UnidadeLogicaAritmetica/src/ALU.vhd
-Z15 F/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/C-UnidadeLogicaAritmetica/src/ALU.vhd
+Z14 8/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/C-UnidadeLogicaAritmetica/src/ALU.vhd
+Z15 F/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/C-UnidadeLogicaAritmetica/src/ALU.vhd
 l0
 L29 1
 Vl_m46J5nYAlXND3Ejfc1Q1
 !s100 kcCcQT]9KV^m4iY]NBB<g0
 R7
 33
-Z16 !s110 1649870593
+R8
 !i10b 1
 R9
-Z17 !s90 -quiet|-modelsimini|/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/C-UnidadeLogicaAritmetica/src/ALU.vhd|
-Z18 !s107 /home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/C-UnidadeLogicaAritmetica/src/ALU.vhd|
+Z16 !s90 -quiet|-modelsimini|/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/C-UnidadeLogicaAritmetica/src/ALU.vhd|
+Z17 !s107 /home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/C-UnidadeLogicaAritmetica/src/ALU.vhd|
 !i113 1
 R12
 R13
@@ -77,40 +76,40 @@ Artl
 R2
 R3
 DEx4 work 3 alu 0 22 l_m46J5nYAlXND3Ejfc1Q1
-!i122 26
+!i122 25
 l120
 L46 144
 Vbz?6?`O9fV`V8WCW?71fX2
 !s100 fZP?N7@MJcgaFfOEH:mKn3
 R7
 33
-R16
+R8
 !i10b 1
 R9
+R16
 R17
-R18
 !i113 1
 R12
 R13
 Eand16
-Z19 w1647457942
+R1
 R2
 R3
-!i122 50
+!i122 48
 R0
-Z20 8/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/B-LogicaCombinacional/src/And16.vhd
-Z21 F/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/B-LogicaCombinacional/src/And16.vhd
+Z18 8/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/B-LogicaCombinacional/src/And16.vhd
+Z19 F/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/B-LogicaCombinacional/src/And16.vhd
 l0
 L4 1
 Vh]ej`Ck73hG:Zd8Jo=jjc1
 !s100 4g2NdCHBc<J3K7jR5WC:B0
 R7
 33
-Z22 !s110 1649871314
+Z20 !s110 1649968239
 !i10b 1
-Z23 !s108 1649871314.000000
-Z24 !s90 -quiet|-modelsimini|/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/B-LogicaCombinacional/src/And16.vhd|
-Z25 !s107 /home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/B-LogicaCombinacional/src/And16.vhd|
+Z21 !s108 1649968239.000000
+Z22 !s90 -quiet|-modelsimini|/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/B-LogicaCombinacional/src/And16.vhd|
+Z23 !s107 /home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/B-LogicaCombinacional/src/And16.vhd|
 !i113 1
 R12
 R13
@@ -118,194 +117,169 @@ Aarch
 R2
 R3
 DEx4 work 5 and16 0 22 h]ej`Ck73hG:Zd8Jo=jjc1
-!i122 50
+!i122 48
 l12
-Z26 L11 4
+Z24 L11 4
 VlhmmAn;^j`]CEFHhZjG3Q0
 !s100 d1KT]QULl_e@FVSA;<oRz2
 R7
 33
-R22
+R20
 !i10b 1
+R21
+R22
 R23
-R24
-R25
 !i113 1
 R12
 R13
 Ebarrelshifter16
-Z27 w1647462361
-Z28 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
+R1
+Z25 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
 R2
 R3
-!i122 49
+!i122 47
 R0
-Z29 8/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/B-LogicaCombinacional/src/BarrelShifter16.vhd
-Z30 F/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/B-LogicaCombinacional/src/BarrelShifter16.vhd
+Z26 8/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/B-LogicaCombinacional/src/BarrelShifter16.vhd
+Z27 F/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/B-LogicaCombinacional/src/BarrelShifter16.vhd
 l0
 L5 1
 VCaOo:=TkAZ^2P1A;L3oI:1
 !s100 ?`1J2i4@hB[PKidXQj87D0
 R7
 33
-R22
+R20
 !i10b 1
-R23
-Z31 !s90 -quiet|-modelsimini|/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/B-LogicaCombinacional/src/BarrelShifter16.vhd|
-Z32 !s107 /home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/B-LogicaCombinacional/src/BarrelShifter16.vhd|
+R21
+Z28 !s90 -quiet|-modelsimini|/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/B-LogicaCombinacional/src/BarrelShifter16.vhd|
+Z29 !s107 /home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/B-LogicaCombinacional/src/BarrelShifter16.vhd|
 !i113 1
 R12
 R13
 Artl
-R28
+R25
 R2
 R3
 DEx4 work 15 barrelshifter16 0 22 CaOo:=TkAZ^2P1A;L3oI:1
-!i122 49
+!i122 47
 l14
 L13 7
 VUAT^[XXD^>HXA[:=<e7OE1
 !s100 8GA1U<FJN2E:`liQz3bFJ0
 R7
 33
-R22
+R20
 !i10b 1
-R23
-R31
-R32
+R21
+R28
+R29
 !i113 1
 R12
 R13
 Ebinariotobcd
-Z33 w1647392957
-Z34 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
-Z35 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+R1
+Z30 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z31 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
 R2
 R3
-!i122 31
+!i122 30
 R0
-Z36 8/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/B-LogicaCombinacional/src/binarioToBcd.vhd
-Z37 F/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/B-LogicaCombinacional/src/binarioToBcd.vhd
+Z32 8/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/B-LogicaCombinacional/src/binarioToBcd.vhd
+Z33 F/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/B-LogicaCombinacional/src/binarioToBcd.vhd
 l0
 L8 1
 VI19a<iFWbfZ0SWGf=`F:20
 !s100 :4FYRUlC<2Fb@bHhj3LM<0
 R7
 33
-R16
+R8
 !i10b 1
-Z38 !s108 1649870593.000000
-Z39 !s90 -quiet|-modelsimini|/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/B-LogicaCombinacional/src/binarioToBcd.vhd|
-Z40 !s107 /home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/B-LogicaCombinacional/src/binarioToBcd.vhd|
+R9
+Z34 !s90 -quiet|-modelsimini|/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/B-LogicaCombinacional/src/binarioToBcd.vhd|
+Z35 !s107 /home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/B-LogicaCombinacional/src/binarioToBcd.vhd|
 !i113 1
 R12
 R13
 Abehaviour
-R34
-R35
+R30
+R31
 R2
 R3
 DEx4 work 12 binariotobcd 0 22 I19a<iFWbfZ0SWGf=`F:20
-!i122 31
+!i122 30
 l27
 L17 77
 VA<n<EJ<8U4RkKCGaz5CDV3
 !s100 oi0D7`:`AM=OP43658iCn2
 R7
 33
-R16
+R8
 !i10b 1
-R38
-R39
-R40
+R9
+R34
+R35
 !i113 1
 R12
 R13
 Ebinarydigit
-Z41 w1648663784
+Z36 w1649965399
 R2
 R3
 !i122 14
 R0
-Z42 8/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/src/BinaryDigit.vhd
-Z43 F/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/src/BinaryDigit.vhd
-=======
-Z0 d/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial
-Ebinarydigit
-Z1 w1648661434
-Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
-Z3 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
-!i122 14
-R0
-Z4 8/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/src/BinaryDigit.vhd
-Z5 F/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/src/BinaryDigit.vhd
->>>>>>> main
+Z37 8/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/src/BinaryDigit.vhd
+Z38 F/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/src/BinaryDigit.vhd
 l0
 L8 1
 V9GGNKWiY70Q@UYNU886Q]0
 !s100 fFP230Rg1V>^^WU1G9Xa[2
-<<<<<<< HEAD
 R7
 33
-Z44 !s110 1649869951
+R8
 !i10b 1
-Z45 !s108 1649869951.000000
-Z46 !s90 -quiet|-modelsimini|/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/src/BinaryDigit.vhd|
-Z47 !s107 /home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/src/BinaryDigit.vhd|
+R9
+Z39 !s90 -quiet|-modelsimini|/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/src/BinaryDigit.vhd|
+Z40 !s107 /home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/src/BinaryDigit.vhd|
 !i113 1
 R12
 R13
-=======
-Z6 OV;C;2020.1;71
-33
-Z7 !s110 1648817873
-!i10b 1
-Z8 !s108 1648817873.000000
-Z9 !s90 -quiet|-modelsimini|/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/src/BinaryDigit.vhd|
-Z10 !s107 /home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/src/BinaryDigit.vhd|
-!i113 1
-Z11 o-quiet -2008 -work lib
-Z12 tExplicit 1 CvgOpt 0
->>>>>>> main
 Aarch
 R2
 R3
 DEx4 work 11 binarydigit 0 22 9GGNKWiY70Q@UYNU886Q]0
 !i122 14
 l39
-<<<<<<< HEAD
 L17 39
 VXA?0OEPRbVniok8^nlkZ30
 !s100 Mai6KiPC@<MHb2d=HN1Ik1
 R7
 33
-R44
+R8
 !i10b 1
-R45
-R46
-R47
+R9
+R39
+R40
 !i113 1
 R12
 R13
 Ecircuito
-Z48 w1647454812
+R1
 R2
 R3
-!i122 30
+!i122 29
 R0
-Z49 8/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/B-LogicaCombinacional/src/circuito.vhd
-Z50 F/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/B-LogicaCombinacional/src/circuito.vhd
+Z41 8/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/B-LogicaCombinacional/src/circuito.vhd
+Z42 F/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/B-LogicaCombinacional/src/circuito.vhd
 l0
 L4 1
 VQBQIj`R>78621b^V>3oQg1
 !s100 o]3AXHENE2[1YZDZ9QMnG1
 R7
 33
-R16
+R8
 !i10b 1
-R38
-Z51 !s90 -quiet|-modelsimini|/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/B-LogicaCombinacional/src/circuito.vhd|
-Z52 !s107 /home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/B-LogicaCombinacional/src/circuito.vhd|
+R9
+Z43 !s90 -quiet|-modelsimini|/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/B-LogicaCombinacional/src/circuito.vhd|
+Z44 !s107 /home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/B-LogicaCombinacional/src/circuito.vhd|
 !i113 1
 R12
 R13
@@ -313,232 +287,165 @@ Aarch
 R2
 R3
 DEx4 work 8 circuito 0 22 QBQIj`R>78621b^V>3oQg1
-!i122 30
+!i122 29
 l12
-Z53 L10 5
+Z45 L10 5
 V0o2UNlN_zfZM[UcjS7>>`1
 !s100 T_3TFfM9g2VSKPk1S7emk2
 R7
 33
-R16
+R8
 !i10b 1
-R38
-R51
-R52
+R9
+R43
+R44
 !i113 1
 R12
 R13
 Ecomparador16
-Z54 w1648060066
-=======
-L17 25
-VaBUhE94Xf@RL1KZCfZz?c3
-!s100 o;z1V]Hg60G:caCoL>2;^3
-R6
-33
-R7
-!i10b 1
-R8
-R9
-R10
-!i113 1
-R11
-R12
-Ecomparador16
 R1
->>>>>>> main
 R2
 R3
-!i122 17
+!i122 16
 R0
-<<<<<<< HEAD
-Z55 8/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/C-UnidadeLogicaAritmetica/src/comparador16.vhd
-Z56 F/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/C-UnidadeLogicaAritmetica/src/comparador16.vhd
-=======
-Z13 8/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/C-UnidadeLogicaAritmetica/src/comparador16.vhd
-Z14 F/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/C-UnidadeLogicaAritmetica/src/comparador16.vhd
->>>>>>> main
+Z46 8/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/C-UnidadeLogicaAritmetica/src/comparador16.vhd
+Z47 F/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/C-UnidadeLogicaAritmetica/src/comparador16.vhd
 l0
 L8 1
 VbbjmeK1BQ4Kb7jBbI77Rg2
 !s100 6Q613_:GLMIK913:C5DoD3
-<<<<<<< HEAD
 R7
 33
-R44
+R8
 !i10b 1
-R45
-Z57 !s90 -quiet|-modelsimini|/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/C-UnidadeLogicaAritmetica/src/comparador16.vhd|
-Z58 !s107 /home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/C-UnidadeLogicaAritmetica/src/comparador16.vhd|
+R9
+Z48 !s90 -quiet|-modelsimini|/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/C-UnidadeLogicaAritmetica/src/comparador16.vhd|
+Z49 !s107 /home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/C-UnidadeLogicaAritmetica/src/comparador16.vhd|
 !i113 1
 R12
 R13
-=======
-R6
-33
-R7
-!i10b 1
-R8
-Z15 !s90 -quiet|-modelsimini|/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/C-UnidadeLogicaAritmetica/src/comparador16.vhd|
-Z16 !s107 /home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/C-UnidadeLogicaAritmetica/src/comparador16.vhd|
-!i113 1
-R11
-R12
->>>>>>> main
 Artl
 R2
 R3
 DEx4 work 12 comparador16 0 22 bbjmeK1BQ4Kb7jBbI77Rg2
-!i122 17
+!i122 16
 l22
 L16 15
 VKP6DUe<<>o;PDAFS7en<Z0
 !s100 f`P<`O1k9PRE7SahIe1o81
-<<<<<<< HEAD
 R7
 33
-R44
+R8
 !i10b 1
-R45
-R57
-R58
+R9
+R48
+R49
 !i113 1
 R12
 R13
 Econceitoa
-Z59 w1647544891
-R28
+R1
+R25
 R2
 R3
-!i122 48
+!i122 46
 R0
-Z60 8/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/B-LogicaCombinacional/src/ConceitoA.vhd
-Z61 F/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/B-LogicaCombinacional/src/ConceitoA.vhd
+Z50 8/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/B-LogicaCombinacional/src/ConceitoA.vhd
+Z51 F/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/B-LogicaCombinacional/src/ConceitoA.vhd
 l0
-Z62 L12 1
+Z52 L12 1
 V]Y8nRGSE6NAcRGHPk=9KG0
 !s100 AE5M:R58SBSKJe6hz`Xi;2
 R7
 33
-R22
+R20
 !i10b 1
-R23
-Z63 !s90 -quiet|-modelsimini|/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/B-LogicaCombinacional/src/ConceitoA.vhd|
-Z64 !s107 /home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/B-LogicaCombinacional/src/ConceitoA.vhd|
+R21
+Z53 !s90 -quiet|-modelsimini|/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/B-LogicaCombinacional/src/ConceitoA.vhd|
+Z54 !s107 /home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/B-LogicaCombinacional/src/ConceitoA.vhd|
 !i113 1
 R12
 R13
 Artl
-R28
+R25
 R2
 R3
 DEx4 work 9 conceitoa 0 22 ]Y8nRGSE6NAcRGHPk=9KG0
-!i122 48
+!i122 46
 l34
 L26 27
 VPh2aL<jiB9Vhe?45:hMab3
 !s100 z6:ODPi41R>3nNWc0fme01
 R7
 33
-R22
+R20
 !i10b 1
-R23
-R63
-R64
+R21
+R53
+R54
 !i113 1
 R12
 R13
-=======
-R6
-33
-R7
-!i10b 1
-R8
-R15
-R16
-!i113 1
-R11
-R12
->>>>>>> main
 Ecounterdown
-R1
+R36
 R2
 R3
 !i122 2
 R0
-<<<<<<< HEAD
-Z65 8/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/src/conceitoA/CounterDown.vhd
-Z66 F/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/src/conceitoA/CounterDown.vhd
-=======
-Z17 8/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/src/conceitoA/CounterDown.vhd
-Z18 F/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/src/conceitoA/CounterDown.vhd
->>>>>>> main
+Z55 8/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/src/conceitoA/CounterDown.vhd
+Z56 F/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/src/conceitoA/CounterDown.vhd
 l0
 L7 1
 VT^dVPIaBo[k8Ee;^=O>X_0
 !s100 _8<`0C=R7;jA<QoiQjAa90
-<<<<<<< HEAD
 R7
 33
-R44
+Z57 !s110 1649968237
 !i10b 1
-R45
-Z67 !s90 -quiet|-modelsimini|/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/src/conceitoA/CounterDown.vhd|
-Z68 !s107 /home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/src/conceitoA/CounterDown.vhd|
+Z58 !s108 1649968237.000000
+Z59 !s90 -quiet|-modelsimini|/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/src/conceitoA/CounterDown.vhd|
+Z60 !s107 /home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/src/conceitoA/CounterDown.vhd|
 !i113 1
 R12
 R13
-=======
-R6
-33
-R7
-!i10b 1
-R8
-Z19 !s90 -quiet|-modelsimini|/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/src/conceitoA/CounterDown.vhd|
-Z20 !s107 /home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/src/conceitoA/CounterDown.vhd|
-!i113 1
-R11
-R12
->>>>>>> main
 Aarch
 R2
 R3
 DEx4 work 11 counterdown 0 22 T^dVPIaBo[k8Ee;^=O>X_0
 !i122 2
-l16
-L14 5
-V02^bbbbS=2SGDiYYB^N:e3
-!s100 @SFL?;NULn5ESS@mHg@?P1
-<<<<<<< HEAD
+l25
+L14 34
+VzPMoj8cUGUEePAD=cgAkg0
+!s100 `]i[;mg]LflNmGnKCf3_]1
 R7
 33
-R44
+R57
 !i10b 1
-R45
-R67
-R68
+R58
+R59
+R60
 !i113 1
 R12
 R13
 Edetectordemoedas
-Z69 w1647461977
+R1
 R2
 R3
-!i122 29
+!i122 28
 R0
-Z70 8/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/B-LogicaCombinacional/src/detectorDeMoedas.vhd
-Z71 F/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/B-LogicaCombinacional/src/detectorDeMoedas.vhd
+Z61 8/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/B-LogicaCombinacional/src/detectorDeMoedas.vhd
+Z62 F/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/B-LogicaCombinacional/src/detectorDeMoedas.vhd
 l0
 L4 1
 VSd0AX;8RlG:F_LO9J_6j^3
 !s100 eBG_FEDA1m8g9Gonl?[8k0
 R7
 33
-R16
+R8
 !i10b 1
-R38
-Z72 !s90 -quiet|-modelsimini|/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/B-LogicaCombinacional/src/detectorDeMoedas.vhd|
-Z73 !s107 /home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/B-LogicaCombinacional/src/detectorDeMoedas.vhd|
+R9
+Z63 !s90 -quiet|-modelsimini|/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/B-LogicaCombinacional/src/detectorDeMoedas.vhd|
+Z64 !s107 /home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/B-LogicaCombinacional/src/detectorDeMoedas.vhd|
 !i113 1
 R12
 R13
@@ -546,40 +453,40 @@ Aarch
 R2
 R3
 DEx4 work 16 detectordemoedas 0 22 Sd0AX;8RlG:F_LO9J_6j^3
-!i122 29
+!i122 28
 l12
 L10 9
 VIQJFh`;Ug[SeYool_MoI92
 !s100 A8@Y5aeJ2l@LREn;JLO973
 R7
 33
-R16
+R8
 !i10b 1
-R38
-R72
-R73
+R9
+R63
+R64
 !i113 1
 R12
 R13
 Edmux2way
-R19
+R1
 R2
 R3
-!i122 47
+!i122 45
 R0
-Z74 8/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/B-LogicaCombinacional/src/DMux2Way.vhd
-Z75 F/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/B-LogicaCombinacional/src/DMux2Way.vhd
+Z65 8/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/B-LogicaCombinacional/src/DMux2Way.vhd
+Z66 F/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/B-LogicaCombinacional/src/DMux2Way.vhd
 l0
 L4 1
 V>:IF]Koi99f<cJ0CmCAM51
 !s100 Mk4MPhHXoJhVbDN8OhUzJ0
 R7
 33
-R22
+R20
 !i10b 1
-R23
-Z76 !s90 -quiet|-modelsimini|/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/B-LogicaCombinacional/src/DMux2Way.vhd|
-Z77 !s107 /home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/B-LogicaCombinacional/src/DMux2Way.vhd|
+R21
+Z67 !s90 -quiet|-modelsimini|/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/B-LogicaCombinacional/src/DMux2Way.vhd|
+Z68 !s107 /home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/B-LogicaCombinacional/src/DMux2Way.vhd|
 !i113 1
 R12
 R13
@@ -587,40 +494,40 @@ Artl
 R2
 R3
 DEx4 work 8 dmux2way 0 22 >:IF]Koi99f<cJ0CmCAM51
-!i122 47
+!i122 45
 l13
 L12 9
 VeCnG^emLLa[Pn_Oz^I_^k2
 !s100 XcVBLMW7MS5Z2[ZbAL@eP2
 R7
 33
-R22
+R20
 !i10b 1
-R23
-R76
-R77
+R21
+R67
+R68
 !i113 1
 R12
 R13
 Edmux4way
-R19
+R1
 R2
 R3
-!i122 46
+!i122 44
 R0
-Z78 8/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/B-LogicaCombinacional/src/DMux4Way.vhd
-Z79 F/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/B-LogicaCombinacional/src/DMux4Way.vhd
+Z69 8/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/B-LogicaCombinacional/src/DMux4Way.vhd
+Z70 F/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/B-LogicaCombinacional/src/DMux4Way.vhd
 l0
 L4 1
 VchCWhU[f@SDYOfM[z`KAD3
 !s100 ;Fe6?`C@SB@=WbZbaI^E^0
 R7
 33
-R22
+R20
 !i10b 1
-R23
-Z80 !s90 -quiet|-modelsimini|/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/B-LogicaCombinacional/src/DMux4Way.vhd|
-Z81 !s107 /home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/B-LogicaCombinacional/src/DMux4Way.vhd|
+R21
+Z71 !s90 -quiet|-modelsimini|/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/B-LogicaCombinacional/src/DMux4Way.vhd|
+Z72 !s107 /home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/B-LogicaCombinacional/src/DMux4Way.vhd|
 !i113 1
 R12
 R13
@@ -628,40 +535,40 @@ Artl
 R2
 R3
 DEx4 work 8 dmux4way 0 22 chCWhU[f@SDYOfM[z`KAD3
-!i122 46
+!i122 44
 l15
-Z82 L14 9
+Z73 L14 9
 V2RKb2jGdFE7J0=;OBEjfo0
 !s100 ZVe`WOaNUkjHf:IYXC6;J2
 R7
 33
-R22
+R20
 !i10b 1
-R23
-R80
-R81
+R21
+R71
+R72
 !i113 1
 R12
 R13
 Edmux8way
-R19
+R1
 R2
 R3
-!i122 45
+!i122 43
 R0
-Z83 8/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/B-LogicaCombinacional/src/DMux8Way.vhd
-Z84 F/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/B-LogicaCombinacional/src/DMux8Way.vhd
+Z74 8/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/B-LogicaCombinacional/src/DMux8Way.vhd
+Z75 F/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/B-LogicaCombinacional/src/DMux8Way.vhd
 l0
 L4 1
 V4@:^4]]>d5jd<9PRAJQi32
 !s100 zC5^AWzR72_D_1oKAO8`>2
 R7
 33
-R22
+R20
 !i10b 1
-R23
-Z85 !s90 -quiet|-modelsimini|/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/B-LogicaCombinacional/src/DMux8Way.vhd|
-Z86 !s107 /home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/B-LogicaCombinacional/src/DMux8Way.vhd|
+R21
+Z76 !s90 -quiet|-modelsimini|/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/B-LogicaCombinacional/src/DMux8Way.vhd|
+Z77 !s107 /home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/B-LogicaCombinacional/src/DMux8Way.vhd|
 !i113 1
 R12
 R13
@@ -669,40 +576,40 @@ Aarch
 R2
 R3
 DEx4 work 8 dmux8way 0 22 4@:^4]]>d5jd<9PRAJQi32
-!i122 45
+!i122 43
 l19
 L18 14
 V<MUF>Zl4HlUW1@Jdl<PX30
 !s100 :Ro;5<fZoP3f]C?S3?`=c1
 R7
 33
-R22
+R20
 !i10b 1
-R23
-R85
-R86
+R21
+R76
+R77
 !i113 1
 R12
 R13
 Eflipflopd
-Z87 w1648662276
+R36
 R2
 R3
 !i122 13
 R0
-Z88 8/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/src/FlipFlopD.vhd
-Z89 F/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/src/FlipFlopD.vhd
+Z78 8/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/src/FlipFlopD.vhd
+Z79 F/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/src/FlipFlopD.vhd
 l0
 L8 1
 Vb>0d0SFJ7I_bZn7^0fNI20
 !s100 dO0M_NbMc7lj3o=60[LCQ0
 R7
 33
-R44
+R8
 !i10b 1
-R45
-Z90 !s90 -quiet|-modelsimini|/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/src/FlipFlopD.vhd|
-Z91 !s107 /home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/src/FlipFlopD.vhd|
+R9
+Z80 !s90 -quiet|-modelsimini|/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/src/FlipFlopD.vhd|
+Z81 !s107 /home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/src/FlipFlopD.vhd|
 !i113 1
 R12
 R13
@@ -717,33 +624,33 @@ V675aBS94I:h<LhA0TCU_l2
 !s100 ?R=ba]5bKVF_ll<SzIXNP1
 R7
 33
-R44
+R8
 !i10b 1
-R45
-R90
-R91
+R9
+R80
+R81
 !i113 1
 R12
 R13
 Eflipflopjk
-Z92 w1649873029
+R36
 R2
 R3
-!i122 73
+!i122 1
 R0
-Z93 8/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/src/conceitoA/FlipFlopJK.vhd
-Z94 F/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/src/conceitoA/FlipFlopJK.vhd
+Z82 8/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/src/conceitoA/FlipFlopJK.vhd
+Z83 F/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/src/conceitoA/FlipFlopJK.vhd
 l0
 L7 1
 VATD6G@DdVN]g0cVP0=KJ;3
 !s100 V3HK<EU]?VL1Yo?Le0:dM3
 R7
 33
-Z95 !s110 1649873037
+R57
 !i10b 1
-Z96 !s108 1649873036.000000
-Z97 !s90 -quiet|-modelsimini|/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/src/conceitoA/FlipFlopJK.vhd|
-Z98 !s107 /home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/src/conceitoA/FlipFlopJK.vhd|
+R58
+Z84 !s90 -quiet|-modelsimini|/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/src/conceitoA/FlipFlopJK.vhd|
+Z85 !s107 /home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/src/conceitoA/FlipFlopJK.vhd|
 !i113 1
 R12
 R13
@@ -751,40 +658,40 @@ Aarch
 R2
 R3
 DEx4 work 10 flipflopjk 0 22 ATD6G@DdVN]g0cVP0=KJ;3
-!i122 73
+!i122 1
 l20
 L17 21
 V8PJjhBn[<Q[L]5HI:dhN[1
 !s100 d>z5VC9k;aS<;2WWQIL:@1
 R7
 33
-R95
+R57
 !i10b 1
-R96
-R97
-R98
+R58
+R84
+R85
 !i113 1
 R12
 R13
 Eflipflopt
-Z99 w1649872302
+R36
 R2
 R3
-!i122 67
+!i122 0
 R0
-Z100 8/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/src/conceitoA/FlipFlopT.vhd
-Z101 F/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/src/conceitoA/FlipFlopT.vhd
+Z86 8/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/src/conceitoA/FlipFlopT.vhd
+Z87 F/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/src/conceitoA/FlipFlopT.vhd
 l0
 L7 1
 VQAlj9IgZGiIhSkdKjc:1]3
 !s100 glC^;MIdR^CYe8]n4Dk[Q0
 R7
 33
-Z102 !s110 1649872308
+R57
 !i10b 1
-Z103 !s108 1649872308.000000
-Z104 !s90 -quiet|-modelsimini|/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/src/conceitoA/FlipFlopT.vhd|
-Z105 !s107 /home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/src/conceitoA/FlipFlopT.vhd|
+R58
+Z88 !s90 -quiet|-modelsimini|/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/src/conceitoA/FlipFlopT.vhd|
+Z89 !s107 /home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/src/conceitoA/FlipFlopT.vhd|
 !i113 1
 R12
 R13
@@ -792,31 +699,31 @@ Aarch
 R2
 R3
 DEx4 work 9 flipflopt 0 22 QAlj9IgZGiIhSkdKjc:1]3
-!i122 67
+!i122 0
 l18
 L16 16
 V7_YT]Ndk1hme>gV6:TN>L1
 !s100 70?_kBM_j9V<SBHazH7f01
 R7
 33
-R102
+R57
 !i10b 1
-R103
-R104
-R105
+R58
+R88
+R89
 !i113 1
 R12
 R13
 Efulladder
-Z106 w1648054868
+R1
 R2
 R3
-!i122 24
+!i122 23
 R0
-Z107 8/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/C-UnidadeLogicaAritmetica/src/FullAdder.vhd
-Z108 F/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/C-UnidadeLogicaAritmetica/src/FullAdder.vhd
+Z90 8/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/C-UnidadeLogicaAritmetica/src/FullAdder.vhd
+Z91 F/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/C-UnidadeLogicaAritmetica/src/FullAdder.vhd
 l0
-Z109 L10 1
+Z92 L10 1
 V;RB>US:oiVgf@@2;ERnEW2
 !s100 ^oFEXWUb;T^9LUJXBGnJH2
 R7
@@ -824,8 +731,8 @@ R7
 R8
 !i10b 1
 R9
-Z110 !s90 -quiet|-modelsimini|/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/C-UnidadeLogicaAritmetica/src/FullAdder.vhd|
-Z111 !s107 /home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/C-UnidadeLogicaAritmetica/src/FullAdder.vhd|
+Z93 !s90 -quiet|-modelsimini|/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/C-UnidadeLogicaAritmetica/src/FullAdder.vhd|
+Z94 !s107 /home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/C-UnidadeLogicaAritmetica/src/FullAdder.vhd|
 !i113 1
 R12
 R13
@@ -833,11 +740,175 @@ Artl
 R2
 R3
 DEx4 work 9 fulladder 0 22 ;RB>US:oiVgf@@2;ERnEW2
-!i122 24
+!i122 23
 l22
-Z112 L17 11
+Z95 L17 11
 VO2V:mBJiBR2NElFVaE24X1
 !s100 W1>P:c4FC]Sg[<fDD=6kW2
+R7
+33
+R8
+!i10b 1
+R9
+R93
+R94
+!i113 1
+R12
+R13
+Ehalfadder
+R1
+R2
+R3
+!i122 22
+R0
+Z96 8/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/C-UnidadeLogicaAritmetica/src/HalfAdder.vhd
+Z97 F/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/C-UnidadeLogicaAritmetica/src/HalfAdder.vhd
+l0
+R92
+VL0]G_0fS9^WC^L]C@X[Y^0
+!s100 h@?RhTGZ[QMJjM?>AnoBQ0
+R7
+33
+R8
+!i10b 1
+R9
+Z98 !s90 -quiet|-modelsimini|/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/C-UnidadeLogicaAritmetica/src/HalfAdder.vhd|
+Z99 !s107 /home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/C-UnidadeLogicaAritmetica/src/HalfAdder.vhd|
+!i113 1
+R12
+R13
+Artl
+R2
+R3
+DEx4 work 9 halfadder 0 22 L0]G_0fS9^WC^L]C@X[Y^0
+!i122 22
+l22
+R95
+Vl`UVeVb;LRO7?jbJ1E1C`1
+!s100 ZMCm]_1n`XM9TbI@_a]h30
+R7
+33
+R8
+!i10b 1
+R9
+R98
+R99
+!i113 1
+R12
+R13
+Eimpressora
+R1
+R2
+R3
+!i122 27
+R0
+Z100 8/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/B-LogicaCombinacional/src/impressora.vhd
+Z101 F/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/B-LogicaCombinacional/src/impressora.vhd
+l0
+L4 1
+V2Vf]_[jCT:XbB[Tz[fgb@2
+!s100 3VLb^^iLS^2QPXha=FQ=@1
+R7
+33
+R8
+!i10b 1
+R9
+Z102 !s90 -quiet|-modelsimini|/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/B-LogicaCombinacional/src/impressora.vhd|
+Z103 !s107 /home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/B-LogicaCombinacional/src/impressora.vhd|
+!i113 1
+R12
+R13
+Aarch
+R2
+R3
+DEx4 work 10 impressora 0 22 2Vf]_[jCT:XbB[Tz[fgb@2
+!i122 27
+l12
+L10 6
+V8lL?2RCfBa]TT]UzzN53G1
+!s100 B8CgCI[WaAD1T>b[ObVER2
+R7
+33
+R8
+!i10b 1
+R9
+R102
+R103
+!i113 1
+R12
+R13
+Einc16
+R1
+R2
+R3
+!i122 21
+R0
+Z104 8/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/C-UnidadeLogicaAritmetica/src/Inc16.vhd
+Z105 F/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/C-UnidadeLogicaAritmetica/src/Inc16.vhd
+l0
+R6
+V;OmAHIS@A^0AT]ojlejag2
+!s100 zf5`@f[Vj[mSi<_bFTEQi3
+R7
+33
+R8
+!i10b 1
+R9
+Z106 !s90 -quiet|-modelsimini|/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/C-UnidadeLogicaAritmetica/src/Inc16.vhd|
+Z107 !s107 /home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/C-UnidadeLogicaAritmetica/src/Inc16.vhd|
+!i113 1
+R12
+R13
+Artl
+R2
+R3
+DEx4 work 5 inc16 0 22 ;OmAHIS@A^0AT]ojlejag2
+!i122 21
+l31
+L18 22
+VC]FG6`DninWQz9MeRlVf?3
+!s100 nI27^E2n>1ShX>@IM?ZP71
+R7
+33
+R8
+!i10b 1
+R9
+R106
+R107
+!i113 1
+R12
+R13
+Einversor16
+R1
+R2
+R3
+!i122 20
+R0
+Z108 8/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/C-UnidadeLogicaAritmetica/src/inversor16.vhd
+Z109 F/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/C-UnidadeLogicaAritmetica/src/inversor16.vhd
+l0
+L8 1
+VW^:D6`B8[IzIadVza9D2:0
+!s100 =W=b0TNN[UJP`F^?D>Yg?0
+R7
+33
+R8
+!i10b 1
+R9
+Z110 !s90 -quiet|-modelsimini|/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/C-UnidadeLogicaAritmetica/src/inversor16.vhd|
+Z111 !s107 /home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/C-UnidadeLogicaAritmetica/src/inversor16.vhd|
+!i113 1
+R12
+R13
+Artl
+R2
+R3
+DEx4 work 10 inversor16 0 22 W^:D6`B8[IzIadVza9D2:0
+!i122 20
+l21
+L16 10
+Vjc;aKzSf=Z6iJFkA]KN503
+!s100 2ERYS4Dllah5lk3jC0?F[2
 R7
 33
 R8
@@ -848,345 +919,25 @@ R111
 !i113 1
 R12
 R13
-Ehalfadder
-Z113 w1647805839
-R2
-R3
-!i122 23
-R0
-Z114 8/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/C-UnidadeLogicaAritmetica/src/HalfAdder.vhd
-Z115 F/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/C-UnidadeLogicaAritmetica/src/HalfAdder.vhd
-l0
-R109
-VL0]G_0fS9^WC^L]C@X[Y^0
-!s100 h@?RhTGZ[QMJjM?>AnoBQ0
-R7
-33
-R8
-!i10b 1
-R9
-Z116 !s90 -quiet|-modelsimini|/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/C-UnidadeLogicaAritmetica/src/HalfAdder.vhd|
-Z117 !s107 /home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/C-UnidadeLogicaAritmetica/src/HalfAdder.vhd|
-!i113 1
-R12
-R13
-Artl
-R2
-R3
-DEx4 work 9 halfadder 0 22 L0]G_0fS9^WC^L]C@X[Y^0
-!i122 23
-l22
-R112
-Vl`UVeVb;LRO7?jbJ1E1C`1
-!s100 ZMCm]_1n`XM9TbI@_a]h30
-R7
-33
-R8
-!i10b 1
-R9
-R116
-R117
-!i113 1
-R12
-R13
-Eimpressora
-Z118 w1647455555
-R2
-R3
-!i122 28
-R0
-Z119 8/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/B-LogicaCombinacional/src/impressora.vhd
-Z120 F/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/B-LogicaCombinacional/src/impressora.vhd
-l0
-L4 1
-V2Vf]_[jCT:XbB[Tz[fgb@2
-!s100 3VLb^^iLS^2QPXha=FQ=@1
-R7
-33
-R16
-!i10b 1
-R38
-Z121 !s90 -quiet|-modelsimini|/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/B-LogicaCombinacional/src/impressora.vhd|
-Z122 !s107 /home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/B-LogicaCombinacional/src/impressora.vhd|
-!i113 1
-R12
-R13
-Aarch
-R2
-R3
-DEx4 work 10 impressora 0 22 2Vf]_[jCT:XbB[Tz[fgb@2
-!i122 28
-l12
-L10 6
-V8lL?2RCfBa]TT]UzzN53G1
-!s100 B8CgCI[WaAD1T>b[ObVER2
-R7
-33
-R16
-!i10b 1
-R38
-R121
-R122
-!i113 1
-R12
-R13
-Einc16
-R106
-R2
-R3
-!i122 22
-R0
-Z123 8/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/C-UnidadeLogicaAritmetica/src/Inc16.vhd
-Z124 F/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/C-UnidadeLogicaAritmetica/src/Inc16.vhd
-l0
-R6
-V;OmAHIS@A^0AT]ojlejag2
-!s100 zf5`@f[Vj[mSi<_bFTEQi3
-R7
-33
-R8
-!i10b 1
-R9
-Z125 !s90 -quiet|-modelsimini|/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/C-UnidadeLogicaAritmetica/src/Inc16.vhd|
-Z126 !s107 /home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/C-UnidadeLogicaAritmetica/src/Inc16.vhd|
-!i113 1
-R12
-R13
-Artl
-R2
-R3
-DEx4 work 5 inc16 0 22 ;OmAHIS@A^0AT]ojlejag2
-!i122 22
-l31
-L18 22
-VC]FG6`DninWQz9MeRlVf?3
-!s100 nI27^E2n>1ShX>@IM?ZP71
-R7
-33
-R8
-!i10b 1
-R9
-R125
-R126
-!i113 1
-R12
-R13
-=======
-R6
-33
-R7
-!i10b 1
-R8
-R19
-R20
-!i113 1
-R11
-R12
-Eflipflopd
-R1
-R2
-R3
-!i122 13
-R0
-Z21 8/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/src/FlipFlopD.vhd
-Z22 F/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/src/FlipFlopD.vhd
-l0
-L8 1
-Vb>0d0SFJ7I_bZn7^0fNI20
-!s100 dO0M_NbMc7lj3o=60[LCQ0
-R6
-33
-R7
-!i10b 1
-R8
-Z23 !s90 -quiet|-modelsimini|/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/src/FlipFlopD.vhd|
-Z24 !s107 /home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/src/FlipFlopD.vhd|
-!i113 1
-R11
-R12
-Aarch
-R2
-R3
-DEx4 work 9 flipflopd 0 22 b>0d0SFJ7I_bZn7^0fNI20
-!i122 13
-l20
-L18 13
-VeoG4BUfVY4AO<2iL:eHgG2
-!s100 LEXEK@::C2`OjoNkRZNIO2
-R6
-33
-R7
-!i10b 1
-R8
-R23
-R24
-!i113 1
-R11
-R12
-Eflipflopjk
-R1
-R2
-R3
-!i122 1
-R0
-Z25 8/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/src/conceitoA/FlipFlopJK.vhd
-Z26 F/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/src/conceitoA/FlipFlopJK.vhd
-l0
-L7 1
-VATD6G@DdVN]g0cVP0=KJ;3
-!s100 V3HK<EU]?VL1Yo?Le0:dM3
-R6
-33
-R7
-!i10b 1
-R8
-Z27 !s90 -quiet|-modelsimini|/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/src/conceitoA/FlipFlopJK.vhd|
-Z28 !s107 /home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/src/conceitoA/FlipFlopJK.vhd|
-!i113 1
-R11
-R12
-Aarch
-R2
-R3
-DEx4 work 10 flipflopjk 0 22 ATD6G@DdVN]g0cVP0=KJ;3
-!i122 1
-l19
-L17 5
-VTKhR<h<kE6kV`Z;:JUPhe3
-!s100 oM>3df^WgY`HI3lZRjKod2
-R6
-33
-R7
-!i10b 1
-R8
-R27
-R28
-!i113 1
-R11
-R12
-Eflipflopt
-R1
-R2
-R3
-!i122 0
-R0
-Z29 8/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/src/conceitoA/FlipFlopT.vhd
-Z30 F/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/src/conceitoA/FlipFlopT.vhd
-l0
-L7 1
-V`AO^=_N27FFNd[eG_VQ463
-!s100 B;=;MIR8d83KKWnMTIYh02
-R6
-33
-R7
-!i10b 1
-R8
-Z31 !s90 -quiet|-modelsimini|/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/src/conceitoA/FlipFlopT.vhd|
-Z32 !s107 /home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/src/conceitoA/FlipFlopT.vhd|
-!i113 1
-R11
-R12
-Aarch
-R2
-R3
-DEx4 work 9 flipflopt 0 22 `AO^=_N27FFNd[eG_VQ463
-!i122 0
-l18
-L16 5
-V>MWg^oTX86;465BB87Nie2
-!s100 b6d><9mh4Oa[haG@4D=T`3
-R6
-33
-R7
-!i10b 1
-R8
-R31
-R32
-!i113 1
-R11
-R12
->>>>>>> main
-Einversor16
-R1
-R2
-R3
-<<<<<<< HEAD
-!i122 21
-R0
-Z127 8/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/C-UnidadeLogicaAritmetica/src/inversor16.vhd
-Z128 F/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/C-UnidadeLogicaAritmetica/src/inversor16.vhd
-=======
-!i122 16
-R0
-Z33 8/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/C-UnidadeLogicaAritmetica/src/inversor16.vhd
-Z34 F/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/C-UnidadeLogicaAritmetica/src/inversor16.vhd
->>>>>>> main
-l0
-L8 1
-VW^:D6`B8[IzIadVza9D2:0
-!s100 =W=b0TNN[UJP`F^?D>Yg?0
-<<<<<<< HEAD
-R7
-33
-R8
-!i10b 1
-R9
-Z129 !s90 -quiet|-modelsimini|/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/C-UnidadeLogicaAritmetica/src/inversor16.vhd|
-Z130 !s107 /home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/C-UnidadeLogicaAritmetica/src/inversor16.vhd|
-!i113 1
-R12
-R13
-=======
-R6
-33
-R7
-!i10b 1
-R8
-Z35 !s90 -quiet|-modelsimini|/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/C-UnidadeLogicaAritmetica/src/inversor16.vhd|
-Z36 !s107 /home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/C-UnidadeLogicaAritmetica/src/inversor16.vhd|
-!i113 1
-R11
-R12
->>>>>>> main
-Artl
-R2
-R3
-DEx4 work 10 inversor16 0 22 W^:D6`B8[IzIadVza9D2:0
-<<<<<<< HEAD
-!i122 21
-l21
-L16 10
-Vjc;aKzSf=Z6iJFkA]KN503
-!s100 2ERYS4Dllah5lk3jC0?F[2
-R7
-33
-R8
-!i10b 1
-R9
-R129
-R130
-!i113 1
-R12
-R13
 Emux16
-R19
+R1
 R2
 R3
-!i122 44
+!i122 42
 R0
-Z131 8/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/B-LogicaCombinacional/src/Mux16.vhd
-Z132 F/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/B-LogicaCombinacional/src/Mux16.vhd
+Z112 8/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/B-LogicaCombinacional/src/Mux16.vhd
+Z113 F/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/B-LogicaCombinacional/src/Mux16.vhd
 l0
 L4 1
 V^KK7>>=?KzfHlc;dK>^H53
 !s100 IzGKQCSkQ7RCdJh>^j0Q61
 R7
 33
-R22
+R20
 !i10b 1
-R23
-Z133 !s90 -quiet|-modelsimini|/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/B-LogicaCombinacional/src/Mux16.vhd|
-Z134 !s107 /home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/B-LogicaCombinacional/src/Mux16.vhd|
+R21
+Z114 !s90 -quiet|-modelsimini|/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/B-LogicaCombinacional/src/Mux16.vhd|
+Z115 !s107 /home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/B-LogicaCombinacional/src/Mux16.vhd|
 !i113 1
 R12
 R13
@@ -1194,40 +945,40 @@ Aarch
 R2
 R3
 DEx4 work 5 mux16 0 22 ^KK7>>=?KzfHlc;dK>^H53
-!i122 44
+!i122 42
 l13
-Z135 L12 6
+Z116 L12 6
 VZYa?Fc765b>:8?iUA0ED=3
 !s100 Tgn7knIXG2hLFFQ1gOk<l1
 R7
 33
-R22
+R20
 !i10b 1
-R23
-R133
-R134
+R21
+R114
+R115
 !i113 1
 R12
 R13
 Emux2way
-R19
+R1
 R2
 R3
-!i122 43
+!i122 41
 R0
-Z136 8/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/B-LogicaCombinacional/src/Mux2Way.vhd
-Z137 F/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/B-LogicaCombinacional/src/Mux2Way.vhd
+Z117 8/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/B-LogicaCombinacional/src/Mux2Way.vhd
+Z118 F/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/B-LogicaCombinacional/src/Mux2Way.vhd
 l0
 L4 1
 V5Md04iB]KYYIl:m:EPnQ[3
 !s100 L]VTV_?L9fN8g2_`K9nZQ2
 R7
 33
-R22
+R20
 !i10b 1
-R23
-Z138 !s90 -quiet|-modelsimini|/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/B-LogicaCombinacional/src/Mux2Way.vhd|
-Z139 !s107 /home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/B-LogicaCombinacional/src/Mux2Way.vhd|
+R9
+Z119 !s90 -quiet|-modelsimini|/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/B-LogicaCombinacional/src/Mux2Way.vhd|
+Z120 !s107 /home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/B-LogicaCombinacional/src/Mux2Way.vhd|
 !i113 1
 R12
 R13
@@ -1235,40 +986,40 @@ Aarch
 R2
 R3
 DEx4 work 7 mux2way 0 22 5Md04iB]KYYIl:m:EPnQ[3
-!i122 43
+!i122 41
 l13
-R135
+R116
 VHNHUJZ8g_;Fj3djNJcXfW3
 !s100 L[BLl`21M<^:OXSik0`<d1
 R7
 33
-R22
+R20
 !i10b 1
-R23
-R138
-R139
+R9
+R119
+R120
 !i113 1
 R12
 R13
 Emux4way
-R19
+R1
 R2
 R3
-!i122 42
+!i122 40
 R0
-Z140 8/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/B-LogicaCombinacional/src/Mux4Way.vhd
-Z141 F/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/B-LogicaCombinacional/src/Mux4Way.vhd
+Z121 8/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/B-LogicaCombinacional/src/Mux4Way.vhd
+Z122 F/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/B-LogicaCombinacional/src/Mux4Way.vhd
 l0
 L4 1
 VS6DJa:23Uele:d0oQjjO[0
 !s100 X`n8^nYIhlnNgIfP_EkID1
 R7
 33
-R22
+R8
 !i10b 1
-R23
-Z142 !s90 -quiet|-modelsimini|/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/B-LogicaCombinacional/src/Mux4Way.vhd|
-Z143 !s107 /home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/B-LogicaCombinacional/src/Mux4Way.vhd|
+R9
+Z123 !s90 -quiet|-modelsimini|/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/B-LogicaCombinacional/src/Mux4Way.vhd|
+Z124 !s107 /home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/B-LogicaCombinacional/src/Mux4Way.vhd|
 !i113 1
 R12
 R13
@@ -1276,40 +1027,40 @@ Aarch
 R2
 R3
 DEx4 work 7 mux4way 0 22 S6DJa:23Uele:d0oQjjO[0
-!i122 42
+!i122 40
 l15
-R82
+R73
 V1QI90Fnd4iZWf>GPfLZ3]3
 !s100 Cn;hMgiMBhK4>VLg@>I<71
 R7
 33
-R22
+R8
 !i10b 1
-R23
-R142
-R143
+R9
+R123
+R124
 !i113 1
 R12
 R13
 Emux4way16
-R19
+R1
 R2
 R3
-!i122 41
+!i122 39
 R0
-Z144 8/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/B-LogicaCombinacional/src/Mux4Way16.vhd
-Z145 F/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/B-LogicaCombinacional/src/Mux4Way16.vhd
+Z125 8/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/B-LogicaCombinacional/src/Mux4Way16.vhd
+Z126 F/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/B-LogicaCombinacional/src/Mux4Way16.vhd
 l0
 L4 1
 VgIliodZR>K=jaJZeHi]]@1
 !s100 8]mCOPe5cHg3o24Lz?cGK0
 R7
 33
-R22
+R8
 !i10b 1
-R23
-Z146 !s90 -quiet|-modelsimini|/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/B-LogicaCombinacional/src/Mux4Way16.vhd|
-Z147 !s107 /home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/B-LogicaCombinacional/src/Mux4Way16.vhd|
+R9
+Z127 !s90 -quiet|-modelsimini|/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/B-LogicaCombinacional/src/Mux4Way16.vhd|
+Z128 !s107 /home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/B-LogicaCombinacional/src/Mux4Way16.vhd|
 !i113 1
 R12
 R13
@@ -1317,40 +1068,40 @@ Aarch
 R2
 R3
 DEx4 work 9 mux4way16 0 22 gIliodZR>K=jaJZeHi]]@1
-!i122 41
+!i122 39
 l15
-R82
+R73
 VHW<WG>ZENQ?B;8MY3Q0GR3
 !s100 M^;n=[b1>BEV3KlooVEg`1
 R7
 33
-R22
+R8
 !i10b 1
-R23
-R146
-R147
+R9
+R127
+R128
 !i113 1
 R12
 R13
 Emux8way
-R19
+R1
 R2
 R3
-!i122 40
+!i122 38
 R0
-Z148 8/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/B-LogicaCombinacional/src/Mux8Way.vhd
-Z149 F/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/B-LogicaCombinacional/src/Mux8Way.vhd
+Z129 8/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/B-LogicaCombinacional/src/Mux8Way.vhd
+Z130 F/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/B-LogicaCombinacional/src/Mux8Way.vhd
 l0
 L4 1
 VcMIZim^j_>0TGlG7NC03C3
 !s100 ^ag5`^MlkFaAfCaX]@3>L0
 R7
 33
-R22
+R8
 !i10b 1
-R23
-Z150 !s90 -quiet|-modelsimini|/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/B-LogicaCombinacional/src/Mux8Way.vhd|
-Z151 !s107 /home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/B-LogicaCombinacional/src/Mux8Way.vhd|
+R9
+Z131 !s90 -quiet|-modelsimini|/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/B-LogicaCombinacional/src/Mux8Way.vhd|
+Z132 !s107 /home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/B-LogicaCombinacional/src/Mux8Way.vhd|
 !i113 1
 R12
 R13
@@ -1358,40 +1109,40 @@ Aarch
 R2
 R3
 DEx4 work 7 mux8way 0 22 cMIZim^j_>0TGlG7NC03C3
-!i122 40
+!i122 38
 l19
-Z152 L18 13
+Z133 L18 13
 VIMV1cEkjg62P25WY78@bV0
 !s100 gM0^mAH`@^l<ao6bAeB<22
 R7
 33
-R22
+R8
 !i10b 1
-R23
-R150
-R151
+R9
+R131
+R132
 !i113 1
 R12
 R13
 Emux8way16
-R19
+R1
 R2
 R3
-!i122 39
+!i122 37
 R0
-Z153 8/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/B-LogicaCombinacional/src/Mux8Way16.vhd
-Z154 F/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/B-LogicaCombinacional/src/Mux8Way16.vhd
+Z134 8/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/B-LogicaCombinacional/src/Mux8Way16.vhd
+Z135 F/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/B-LogicaCombinacional/src/Mux8Way16.vhd
 l0
 L4 1
 V7MWl=:zn]>Q>M5K]`_b<60
 !s100 @m115@68;o9gzO2VgfBG]0
 R7
 33
-R22
+R8
 !i10b 1
-R23
-Z155 !s90 -quiet|-modelsimini|/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/B-LogicaCombinacional/src/Mux8Way16.vhd|
-Z156 !s107 /home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/B-LogicaCombinacional/src/Mux8Way16.vhd|
+R9
+Z136 !s90 -quiet|-modelsimini|/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/B-LogicaCombinacional/src/Mux8Way16.vhd|
+Z137 !s107 /home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/B-LogicaCombinacional/src/Mux8Way16.vhd|
 !i113 1
 R12
 R13
@@ -1399,40 +1150,40 @@ Aarch
 R2
 R3
 DEx4 work 9 mux8way16 0 22 7MWl=:zn]>Q>M5K]`_b<60
-!i122 39
+!i122 37
 l19
-R152
+R133
 VD=YP7YU?ULkMIgch<P=Aj1
 !s100 ^jo[fhM@=?Czci^mEB]mY0
 R7
 33
-R22
+R8
 !i10b 1
-R23
-R155
-R156
+R9
+R136
+R137
 !i113 1
 R12
 R13
 Enand2
-R33
+R1
 R2
 R3
-!i122 38
+!i122 36
 R0
-Z157 8/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/B-LogicaCombinacional/src/Nand2.vhd
-Z158 F/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/B-LogicaCombinacional/src/Nand2.vhd
+Z138 8/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/B-LogicaCombinacional/src/Nand2.vhd
+Z139 F/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/B-LogicaCombinacional/src/Nand2.vhd
 l0
 L4 1
 VV6aic[TMmDzJcCEf<O]ge1
 !s100 _8@7`=N8;PUn8KC]j]b<H3
 R7
 33
-R22
+R8
 !i10b 1
-R23
-Z159 !s90 -quiet|-modelsimini|/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/B-LogicaCombinacional/src/Nand2.vhd|
-Z160 !s107 /home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/B-LogicaCombinacional/src/Nand2.vhd|
+R9
+Z140 !s90 -quiet|-modelsimini|/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/B-LogicaCombinacional/src/Nand2.vhd|
+Z141 !s107 /home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/B-LogicaCombinacional/src/Nand2.vhd|
 !i113 1
 R12
 R13
@@ -1440,40 +1191,40 @@ Artl
 R2
 R3
 DEx4 work 5 nand2 0 22 V6aic[TMmDzJcCEf<O]ge1
-!i122 38
+!i122 36
 l13
 L12 4
 VdUGLBVd0IJVdTd43=H7ef1
 !s100 2Q1e]E>@323^hS@;M=L370
 R7
 33
-R22
+R8
 !i10b 1
-R23
-R159
-R160
+R9
+R140
+R141
 !i113 1
 R12
 R13
 Enor8way
-R19
+R1
 R2
 R3
-!i122 37
+!i122 35
 R0
-Z161 8/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/B-LogicaCombinacional/src/Nor8Way.vhd
-Z162 F/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/B-LogicaCombinacional/src/Nor8Way.vhd
+Z142 8/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/B-LogicaCombinacional/src/Nor8Way.vhd
+Z143 F/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/B-LogicaCombinacional/src/Nor8Way.vhd
 l0
 L4 1
 VI6@ZGJd>JSC7UGzNAn6GU2
 !s100 bzc2JH[>FOP2l:COLj<IY2
 R7
 33
-R22
+R8
 !i10b 1
-R23
-Z163 !s90 -quiet|-modelsimini|/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/B-LogicaCombinacional/src/Nor8Way.vhd|
-Z164 !s107 /home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/B-LogicaCombinacional/src/Nor8Way.vhd|
+R9
+Z144 !s90 -quiet|-modelsimini|/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/B-LogicaCombinacional/src/Nor8Way.vhd|
+Z145 !s107 /home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/B-LogicaCombinacional/src/Nor8Way.vhd|
 !i113 1
 R12
 R13
@@ -1481,40 +1232,40 @@ Aarch
 R2
 R3
 DEx4 work 7 nor8way 0 22 I6@ZGJd>JSC7UGzNAn6GU2
-!i122 37
+!i122 35
 l18
 L17 6
 VBAGelAm>giXG>F;gQ89^>2
 !s100 :i`2D2R?3fFeTlTR19jaZ0
 R7
 33
-R22
+R8
 !i10b 1
-R23
-R163
-R164
+R9
+R144
+R145
 !i113 1
 R12
 R13
 Enot16
-R19
+R1
 R2
 R3
-!i122 36
+!i122 34
 R0
-Z165 8/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/B-LogicaCombinacional/src/Not16.vhd
-Z166 F/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/B-LogicaCombinacional/src/Not16.vhd
+Z146 8/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/B-LogicaCombinacional/src/Not16.vhd
+Z147 F/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/B-LogicaCombinacional/src/Not16.vhd
 l0
 L4 1
 VC]SG@M]l`d<egUIK]zP2?0
 !s100 fYJ1`YCnUZe9F?2KLeD4V3
 R7
 33
-R22
+R8
 !i10b 1
-R23
-Z167 !s90 -quiet|-modelsimini|/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/B-LogicaCombinacional/src/Not16.vhd|
-Z168 !s107 /home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/B-LogicaCombinacional/src/Not16.vhd|
+R9
+Z148 !s90 -quiet|-modelsimini|/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/B-LogicaCombinacional/src/Not16.vhd|
+Z149 !s107 /home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/B-LogicaCombinacional/src/Not16.vhd|
 !i113 1
 R12
 R13
@@ -1522,40 +1273,40 @@ Aarch
 R2
 R3
 DEx4 work 5 not16 0 22 C]SG@M]l`d<egUIK]zP2?0
-!i122 36
+!i122 34
 l11
-R53
+R45
 V3ZnC_V189Xo[PoP1WefEn2
 !s100 oBB;9eH0EiIE@YEGkK@9Y3
 R7
 33
-R22
+R8
 !i10b 1
-R23
-R167
-R168
+R9
+R148
+R149
 !i113 1
 R12
 R13
 Eor16
-R19
+R1
 R2
 R3
-!i122 35
+!i122 33
 R0
-Z169 8/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/B-LogicaCombinacional/src/Or16.vhd
-Z170 F/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/B-LogicaCombinacional/src/Or16.vhd
+Z150 8/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/B-LogicaCombinacional/src/Or16.vhd
+Z151 F/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/B-LogicaCombinacional/src/Or16.vhd
 l0
 L4 1
 VFm015BPNjKE2P[ZaFANAP1
 !s100 >QKR87GJWMdVLQz<g8^hf0
 R7
 33
-R22
+R8
 !i10b 1
-Z171 !s108 1649871313.000000
-Z172 !s90 -quiet|-modelsimini|/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/B-LogicaCombinacional/src/Or16.vhd|
-Z173 !s107 /home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/B-LogicaCombinacional/src/Or16.vhd|
+R9
+Z152 !s90 -quiet|-modelsimini|/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/B-LogicaCombinacional/src/Or16.vhd|
+Z153 !s107 /home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/B-LogicaCombinacional/src/Or16.vhd|
 !i113 1
 R12
 R13
@@ -1563,40 +1314,40 @@ Aarch
 R2
 R3
 DEx4 work 4 or16 0 22 Fm015BPNjKE2P[ZaFANAP1
-!i122 35
+!i122 33
 l12
 L11 6
 V_QY6bPoN>cgGNUJMg=KVP2
 !s100 4Z0<30]HA<D^f0kbNBKED3
 R7
 33
-R22
+R8
 !i10b 1
-R171
-R172
-R173
+R9
+R152
+R153
 !i113 1
 R12
 R13
 Eor8way
-R19
+R1
 R2
 R3
-!i122 34
+!i122 32
 R0
-Z174 8/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/B-LogicaCombinacional/src/Or8Way.vhd
-Z175 F/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/B-LogicaCombinacional/src/Or8Way.vhd
+Z154 8/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/B-LogicaCombinacional/src/Or8Way.vhd
+Z155 F/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/B-LogicaCombinacional/src/Or8Way.vhd
 l0
 L4 1
 V6_>9FK_U9`n7]^73i4MMa1
 !s100 Ag3dFfPkCD2FhoYEajciW3
 R7
 33
-Z176 !s110 1649871313
+R8
 !i10b 1
-R171
-Z177 !s90 -quiet|-modelsimini|/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/B-LogicaCombinacional/src/Or8Way.vhd|
-Z178 !s107 /home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/B-LogicaCombinacional/src/Or8Way.vhd|
+R9
+Z156 !s90 -quiet|-modelsimini|/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/B-LogicaCombinacional/src/Or8Way.vhd|
+Z157 !s107 /home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/B-LogicaCombinacional/src/Or8Way.vhd|
 !i113 1
 R12
 R13
@@ -1604,83 +1355,83 @@ Aarch
 R2
 R3
 DEx4 work 6 or8way 0 22 6_>9FK_U9`n7]^73i4MMa1
-!i122 34
+!i122 32
 l18
 L17 5
 V7k6CRfl;_feK^FV`bm?aa2
 !s100 RKC>c]AMWj84X]ZE2GOn?1
 R7
 33
-R176
+R8
 !i10b 1
-R171
-R177
-R178
+R9
+R156
+R157
 !i113 1
 R12
 R13
 Epc
-Z179 w1649613333
-R28
+Z158 w1649968195
+R25
 R2
 R3
 !i122 12
 R0
-Z180 8/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/src/PC.vhd
-Z181 F/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/src/PC.vhd
+Z159 8/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/src/PC.vhd
+Z160 F/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/src/PC.vhd
 l0
 L16 1
 VzaQSMhREHbJK:GJ=aSh4H2
 !s100 [X=gb6SiLihcOc_HL>:i<2
 R7
 33
-R44
+R8
 !i10b 1
-R45
-Z182 !s90 -quiet|-modelsimini|/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/src/PC.vhd|
-Z183 !s107 /home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/src/PC.vhd|
+R9
+Z161 !s90 -quiet|-modelsimini|/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/src/PC.vhd|
+Z162 !s107 /home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/src/PC.vhd|
 !i113 1
 R12
 R13
 Aarch
-R28
+R25
 R2
 R3
 DEx4 work 2 pc 0 22 zaQSMhREHbJK:GJ=aSh4H2
 !i122 12
 l47
-L27 23
-Vk?<R>h[fBFIGcJ=UhX^_73
-!s100 2`eLN8729l@27;1mUJ_3;3
+L27 38
+VA27X=fn7>GOIE1<nbG@a60
+!s100 g9fSf0i4hjL_HXf5Cf;RP3
 R7
 33
-R44
+R8
 !i10b 1
-R45
-R182
-R183
+R9
+R161
+R162
 !i113 1
 R12
 R13
 Eram4k
-Z184 w1649550271
+R36
 R2
 R3
 !i122 11
 R0
-Z185 8/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/src/Ram4K.vhd
-Z186 F/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/src/Ram4K.vhd
+Z163 8/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/src/Ram4K.vhd
+Z164 F/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/src/Ram4K.vhd
 l0
 L8 1
 Vz8dhdjLKA6AlXRDQnUY4b0
 !s100 ESk?XNEfJCWi[LAlUVY:i3
 R7
 33
-R44
+R8
 !i10b 1
-R45
-Z187 !s90 -quiet|-modelsimini|/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/src/Ram4K.vhd|
-Z188 !s107 /home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/src/Ram4K.vhd|
+R9
+Z165 !s90 -quiet|-modelsimini|/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/src/Ram4K.vhd|
+Z166 !s107 /home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/src/Ram4K.vhd|
 !i113 1
 R12
 R13
@@ -1690,38 +1441,38 @@ R3
 DEx4 work 5 ram4k 0 22 z8dhdjLKA6AlXRDQnUY4b0
 !i122 11
 l61
-Z189 L18 129
+Z167 L18 129
 V:MVOMYGEzV8;`gHYkeVA[2
 !s100 :O7W8=D8XTL8OcOz:bK_g1
 R7
 33
-R44
+R8
 !i10b 1
-R45
-R187
-R188
+R9
+R165
+R166
 !i113 1
 R12
 R13
 Eram512
-Z190 w1649550133
+R36
 R2
 R3
 !i122 10
 R0
-Z191 8/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/src/Ram512.vhd
-Z192 F/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/src/Ram512.vhd
+Z168 8/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/src/Ram512.vhd
+Z169 F/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/src/Ram512.vhd
 l0
 L8 1
 V8[<08i[R4ikhzV`Li1VTh1
 !s100 1@Ji=O6R2bCM?3<4JVEVe1
 R7
 33
-R44
+R8
 !i10b 1
-R45
-Z193 !s90 -quiet|-modelsimini|/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/src/Ram512.vhd|
-Z194 !s107 /home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/src/Ram512.vhd|
+R9
+Z170 !s90 -quiet|-modelsimini|/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/src/Ram512.vhd|
+Z171 !s107 /home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/src/Ram512.vhd|
 !i113 1
 R12
 R13
@@ -1731,38 +1482,38 @@ R3
 DEx4 work 6 ram512 0 22 8[<08i[R4ikhzV`Li1VTh1
 !i122 10
 l61
-R189
+R167
 VOBb`02]f2U<R3oFE=RQ>l0
 !s100 XK7SGeMV<SoTRQ6lk]iea3
 R7
 33
-R44
+R8
 !i10b 1
-R45
-R193
-R194
+R9
+R170
+R171
 !i113 1
 R12
 R13
 Eram64
-Z195 w1649549874
+R36
 R2
 R3
 !i122 9
 R0
-Z196 8/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/src/Ram64.vhd
-Z197 F/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/src/Ram64.vhd
+Z172 8/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/src/Ram64.vhd
+Z173 F/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/src/Ram64.vhd
 l0
 L8 1
 VHRL`C4[eJ50a:k2gb[ecM2
 !s100 gg_:9eMG?gXI@fHk9bKn=3
 R7
 33
-R44
+R8
 !i10b 1
-R45
-Z198 !s90 -quiet|-modelsimini|/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/src/Ram64.vhd|
-Z199 !s107 /home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/src/Ram64.vhd|
+R9
+Z174 !s90 -quiet|-modelsimini|/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/src/Ram64.vhd|
+Z175 !s107 /home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/src/Ram64.vhd|
 !i113 1
 R12
 R13
@@ -1777,33 +1528,33 @@ VSkd?RID8:eRjoT3CU?i6W3
 !s100 QYJ1`Dm10[@B]XED2k3gn3
 R7
 33
-R44
+R8
 !i10b 1
-R45
-R198
-R199
+R9
+R174
+R175
 !i113 1
 R12
 R13
 Eram8
-Z200 w1648681909
+R36
 R2
 R3
 !i122 8
 R0
-Z201 8/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/src/Ram8.vhd
-Z202 F/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/src/Ram8.vhd
+Z176 8/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/src/Ram8.vhd
+Z177 F/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/src/Ram8.vhd
 l0
 L8 1
 VVj4LCZ8Lb8=jZ@YcZTX@g2
 !s100 R5mZ`al9n>P1>n^5Jl6z_1
 R7
 33
-R44
+R8
 !i10b 1
-R45
-Z203 !s90 -quiet|-modelsimini|/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/src/Ram8.vhd|
-Z204 !s107 /home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/src/Ram8.vhd|
+R58
+Z178 !s90 -quiet|-modelsimini|/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/src/Ram8.vhd|
+Z179 !s107 /home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/src/Ram8.vhd|
 !i113 1
 R12
 R13
@@ -1818,33 +1569,33 @@ V1MH]DJQ`z;[:h4EE>b9TB1
 !s100 =eIz_P?B6DRb@[UEfgK6]1
 R7
 33
-R44
+R8
 !i10b 1
-R45
-R203
-R204
+R58
+R178
+R179
 !i113 1
 R12
 R13
 Eregister16
-Z205 w1648664183
+R36
 R2
 R3
 !i122 7
 R0
-Z206 8/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/src/Register16.vhd
-Z207 F/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/src/Register16.vhd
+Z180 8/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/src/Register16.vhd
+Z181 F/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/src/Register16.vhd
 l0
 L8 1
 VLBR;A=e>>e_QSBKCXWa5d3
 !s100 n^CUeJ^:id2hXcoBoB>TS3
 R7
 33
-R44
+R57
 !i10b 1
-R45
-Z208 !s90 -quiet|-modelsimini|/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/src/Register16.vhd|
-Z209 !s107 /home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/src/Register16.vhd|
+R58
+Z182 !s90 -quiet|-modelsimini|/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/src/Register16.vhd|
+Z183 !s107 /home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/src/Register16.vhd|
 !i113 1
 R12
 R13
@@ -1854,38 +1605,38 @@ R3
 DEx4 work 10 register16 0 22 LBR;A=e>>e_QSBKCXWa5d3
 !i122 7
 l28
-Z210 L17 27
+Z184 L17 27
 VG:VTE0>;Ha8f0n4BeIRmo0
 !s100 ZQA3nmLbDb2;7?`DPkjX81
 R7
 33
-R44
+R57
 !i10b 1
-R45
-R208
-R209
+R58
+R182
+R183
 !i113 1
 R12
 R13
 Eregister32
-Z211 w1648664971
+R36
 R2
 R3
 !i122 6
 R0
-Z212 8/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/src/Register32.vhd
-Z213 F/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/src/Register32.vhd
+Z185 8/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/src/Register32.vhd
+Z186 F/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/src/Register32.vhd
 l0
 L8 1
 VP]c@k:W8fWg]Xko[>MWb^1
 !s100 []:^=AY8a3]ML1PkdZ@Ea3
 R7
 33
-R44
+R57
 !i10b 1
-R45
-Z214 !s90 -quiet|-modelsimini|/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/src/Register32.vhd|
-Z215 !s107 /home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/src/Register32.vhd|
+R58
+Z187 !s90 -quiet|-modelsimini|/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/src/Register32.vhd|
+Z188 !s107 /home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/src/Register32.vhd|
 !i113 1
 R12
 R13
@@ -1900,33 +1651,33 @@ VRcD>=achPFT@M?>lTD^R=3
 !s100 c_^8cZ;^fD6m91[80S7Al3
 R7
 33
-R44
+R57
 !i10b 1
-R45
-R214
-R215
+R58
+R187
+R188
 !i113 1
 R12
 R13
 Eregister64
-Z216 w1648664958
+R36
 R2
 R3
 !i122 5
 R0
-Z217 8/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/src/Register64.vhd
-Z218 F/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/src/Register64.vhd
+Z189 8/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/src/Register64.vhd
+Z190 F/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/src/Register64.vhd
 l0
 L8 1
 V;LzQ2fOcY6f?Oc68WJCXG2
 !s100 LCbS]1neA;d2ePolK?XW]3
 R7
 33
-R44
+R57
 !i10b 1
-R45
-Z219 !s90 -quiet|-modelsimini|/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/src/Register64.vhd|
-Z220 !s107 /home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/src/Register64.vhd|
+R58
+Z191 !s90 -quiet|-modelsimini|/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/src/Register64.vhd|
+Z192 !s107 /home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/src/Register64.vhd|
 !i113 1
 R12
 R13
@@ -1936,38 +1687,38 @@ R3
 DEx4 work 10 register64 0 22 ;LzQ2fOcY6f?Oc68WJCXG2
 !i122 5
 l28
-R210
+R184
 V;6G0U6HMlem0ZCEPW[]z41
 !s100 9874Do>zQc9IXGN@zaoRE0
 R7
 33
-R44
+R57
 !i10b 1
-R45
-R219
-R220
+R58
+R191
+R192
 !i113 1
 R12
 R13
 Eregister8
-Z221 w1648664040
+R36
 R2
 R3
 !i122 4
 R0
-Z222 8/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/src/Register8.vhd
-Z223 F/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/src/Register8.vhd
+Z193 8/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/src/Register8.vhd
+Z194 F/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/src/Register8.vhd
 l0
 L8 1
 V9P<nc9YOOPP_Z`H4KFKkR3
 !s100 RH;m?0bQIi^ohZMhS9XdS0
 R7
 33
-R44
+R57
 !i10b 1
-R45
-Z224 !s90 -quiet|-modelsimini|/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/src/Register8.vhd|
-Z225 !s107 /home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/src/Register8.vhd|
+R58
+Z195 !s90 -quiet|-modelsimini|/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/src/Register8.vhd|
+Z196 !s107 /home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/src/Register8.vhd|
 !i113 1
 R12
 R13
@@ -1982,33 +1733,33 @@ VLU_dY05Ji>GS7D[;lhdP]3
 !s100 AIZZd;lozmlQ<n^S5JFDe1
 R7
 33
-R44
+R57
 !i10b 1
-R45
-R224
-R225
+R58
+R195
+R196
 !i113 1
 R12
 R13
 Esevenseg
-Z226 w1647545498
+R1
 R2
 R3
-!i122 27
+!i122 26
 R0
-Z227 8/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/B-LogicaCombinacional/src/sevenSeg.vhd
-Z228 F/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/B-LogicaCombinacional/src/sevenSeg.vhd
+Z197 8/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/B-LogicaCombinacional/src/sevenSeg.vhd
+Z198 F/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/B-LogicaCombinacional/src/sevenSeg.vhd
 l0
 L4 1
 VgdITb;WTH[5cZbCd[CR:E0
 !s100 XWCP4A?:A0m34fY00Z:oS0
 R7
 33
-R16
+R8
 !i10b 1
-R38
-Z229 !s90 -quiet|-modelsimini|/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/B-LogicaCombinacional/src/sevenSeg.vhd|
-Z230 !s107 /home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/B-LogicaCombinacional/src/sevenSeg.vhd|
+R9
+Z199 !s90 -quiet|-modelsimini|/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/B-LogicaCombinacional/src/sevenSeg.vhd|
+Z200 !s107 /home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/B-LogicaCombinacional/src/sevenSeg.vhd|
 !i113 1
 R12
 R13
@@ -2016,82 +1767,113 @@ Aarch
 R2
 R3
 DEx4 work 8 sevenseg 0 22 gdITb;WTH[5cZbCd[CR:E0
-!i122 27
+!i122 26
 l11
 L10 20
 Vz3E3zIZV^f3^KUKkk9[@D3
 !s100 h3RWW5Ya5fR^74d=<IP0a0
 R7
 33
-R16
+R8
 !i10b 1
-R38
-R229
-R230
+R9
+R199
+R200
 !i113 1
 R12
 R13
 Etb_binarydigit
 R1
-Z231 D^#x9 vunit_lib 13 vunit_context 0 22 5PF4h;N3nzRfAo898Q8WS3
-Z232 DPx9 vunit_lib 18 run_deprecated_pkg 0 22 06HHNn=l0Y?PoSLo8^<h00
-Z233 DPx9 vunit_lib 10 runner_pkg 0 22 NQlg?N:7cfzSYD?FX_C9W0
-Z234 DPx9 vunit_lib 7 run_pkg 0 22 L;71H6TCjU4gL1AJPm_Vd0
-Z235 DPx9 vunit_lib 13 run_types_pkg 0 22 ZfDWW?_fEaQBz>VkefFUV2
-Z236 DPx9 vunit_lib 20 check_deprecated_pkg 0 22 Y>TVz>[kI8XoP@P02gCOJ2
-Z237 DPx9 vunit_lib 9 check_pkg 0 22 k_?TDGU?=n?1Z0oahO>zF0
-Z238 DPx9 vunit_lib 11 checker_pkg 0 22 E?dhhcE;9VWnHLW[lW4`Y1
-Z239 DPx9 vunit_lib 8 stop_pkg 0 22 UjKiHFdPQ97>_>m`nM3cg3
-Z240 DPx9 vunit_lib 8 core_pkg 0 22 0M7EG>QDghVT?B78KOYPn0
-Z241 DPx9 vunit_lib 18 log_deprecated_pkg 0 22 Q7[lfBh_WC:ca^W64YP1U2
-Z242 DPx9 vunit_lib 9 print_pkg 0 22 z3A9G[B4JdMci]Ub;PK=S3
-Z243 DPx9 vunit_lib 4 path 0 22 ]@TR:IFM`TWfiVL<ZjY=I3
-Z244 DPx9 vunit_lib 15 log_handler_pkg 0 22 4LC?iW3FIdm8J@]^l:Fa_0
-Z245 DPx9 vunit_lib 8 ansi_pkg 0 22 h9cG]NHf=IYSX>SV5U_OM1
-Z246 DPx9 vunit_lib 14 log_levels_pkg 0 22 jGUFnEUH1mU?HKm3YRPGj3
-Z247 DPx9 vunit_lib 10 logger_pkg 0 22 Jj3MC9=bR4jQbFA1jSDXY2
-Z248 DPx9 vunit_lib 10 dictionary 0 22 _W8>On_YoEFWEDP8TQC@R0
-Z249 DPx9 vunit_lib 10 string_ops 0 22 >6lVd?dSYVCeeU;1?_=bg2
-Z250 D^#x9 vunit_lib 18 data_types_context 0 22 [Ik[<YbW8Ag;h5P``aP2g3
-Z251 DPx9 vunit_lib 8 dict_pkg 0 22 _EQKR[P[ibBW^<0mzPejD2
-Z252 DPx9 vunit_lib 19 byte_vector_ptr_pkg 0 22 nMb7G]QlQkbCia?ecQlOB1
-Z253 DPx9 vunit_lib 19 string_ptr_pool_pkg 0 22 ;oGa_UEi8nVncYkDRR_Aj1
-Z254 DPx9 vunit_lib 14 queue_pool_pkg 0 22 W_@1eWPT4E>cBF2g>m`PC0
-Z255 DPx9 vunit_lib 17 integer_array_pkg 0 22 o:H2ie>cVB<O<8]@gJG;:3
-Z256 DPx9 vunit_lib 19 external_string_pkg 0 22 iE_JL@S7G[ScLPziLPH3]3
-Z257 DPx9 vunit_lib 14 string_ptr_pkg 0 22 n[AzFb_A:6S@HQFZYcL]h0
-Z258 DPx9 vunit_lib 9 queue_pkg 0 22 CMi_fVS`R;@j5e>onMNln3
-Z259 DPx9 vunit_lib 27 integer_vector_ptr_pool_pkg 0 22 FX=7VbM]W@D7RN`^3N8aJ3
-Z260 DPx9 vunit_lib 17 codec_builder_pkg 0 22 lMzaQB]AGo[9c?7g60J_93
-R28
-Z261 DPx4 ieee 11 numeric_bit 0 22 G2;d`f^X6V]cQEn8_38:i1
-Z262 DPx4 ieee 9 math_real 0 22 gNk<PdFJ<XNPcfef`f?Z81
-Z263 DPx4 ieee 12 math_complex 0 22 lndMRF4<kJnT_9]@:30S@3
-Z264 DPx9 vunit_lib 9 codec_pkg 0 22 VE]>YKnj@eiUJ<U1YSEXb3
-Z265 DPx9 vunit_lib 27 external_integer_vector_pkg 0 22 hl?S7F7[zeX8D09=mXj_W2
-Z266 DPx9 vunit_lib 22 integer_vector_ptr_pkg 0 22 dQHde;mb=n>VUWALE0?M33
-Z267 DPx9 vunit_lib 9 types_pkg 0 22 8X1EBI95Q8hI=Vi3D9DP;0
+Z201 D^#x9 vunit_lib 13 vunit_context 0 22 5PF4h;N3nzRfAo898Q8WS3
+Z202 DPx9 vunit_lib 18 run_deprecated_pkg 0 22 06HHNn=l0Y?PoSLo8^<h00
+Z203 DPx9 vunit_lib 10 runner_pkg 0 22 NQlg?N:7cfzSYD?FX_C9W0
+Z204 DPx9 vunit_lib 7 run_pkg 0 22 L;71H6TCjU4gL1AJPm_Vd0
+Z205 DPx9 vunit_lib 13 run_types_pkg 0 22 ZfDWW?_fEaQBz>VkefFUV2
+Z206 DPx9 vunit_lib 20 check_deprecated_pkg 0 22 Y>TVz>[kI8XoP@P02gCOJ2
+Z207 DPx9 vunit_lib 9 check_pkg 0 22 k_?TDGU?=n?1Z0oahO>zF0
+Z208 DPx9 vunit_lib 11 checker_pkg 0 22 E?dhhcE;9VWnHLW[lW4`Y1
+Z209 DPx9 vunit_lib 8 stop_pkg 0 22 UjKiHFdPQ97>_>m`nM3cg3
+Z210 DPx9 vunit_lib 8 core_pkg 0 22 0M7EG>QDghVT?B78KOYPn0
+Z211 DPx9 vunit_lib 18 log_deprecated_pkg 0 22 Q7[lfBh_WC:ca^W64YP1U2
+Z212 DPx9 vunit_lib 9 print_pkg 0 22 z3A9G[B4JdMci]Ub;PK=S3
+Z213 DPx9 vunit_lib 4 path 0 22 ]@TR:IFM`TWfiVL<ZjY=I3
+Z214 DPx9 vunit_lib 15 log_handler_pkg 0 22 4LC?iW3FIdm8J@]^l:Fa_0
+Z215 DPx9 vunit_lib 8 ansi_pkg 0 22 h9cG]NHf=IYSX>SV5U_OM1
+Z216 DPx9 vunit_lib 14 log_levels_pkg 0 22 jGUFnEUH1mU?HKm3YRPGj3
+Z217 DPx9 vunit_lib 10 logger_pkg 0 22 Jj3MC9=bR4jQbFA1jSDXY2
+Z218 DPx9 vunit_lib 10 dictionary 0 22 _W8>On_YoEFWEDP8TQC@R0
+Z219 DPx9 vunit_lib 10 string_ops 0 22 >6lVd?dSYVCeeU;1?_=bg2
+Z220 D^#x9 vunit_lib 18 data_types_context 0 22 [Ik[<YbW8Ag;h5P``aP2g3
+Z221 DPx9 vunit_lib 8 dict_pkg 0 22 _EQKR[P[ibBW^<0mzPejD2
+Z222 DPx9 vunit_lib 19 byte_vector_ptr_pkg 0 22 nMb7G]QlQkbCia?ecQlOB1
+Z223 DPx9 vunit_lib 19 string_ptr_pool_pkg 0 22 ;oGa_UEi8nVncYkDRR_Aj1
+Z224 DPx9 vunit_lib 14 queue_pool_pkg 0 22 W_@1eWPT4E>cBF2g>m`PC0
+Z225 DPx9 vunit_lib 17 integer_array_pkg 0 22 o:H2ie>cVB<O<8]@gJG;:3
+Z226 DPx9 vunit_lib 19 external_string_pkg 0 22 iE_JL@S7G[ScLPziLPH3]3
+Z227 DPx9 vunit_lib 14 string_ptr_pkg 0 22 n[AzFb_A:6S@HQFZYcL]h0
+Z228 DPx9 vunit_lib 9 queue_pkg 0 22 CMi_fVS`R;@j5e>onMNln3
+Z229 DPx9 vunit_lib 27 integer_vector_ptr_pool_pkg 0 22 FX=7VbM]W@D7RN`^3N8aJ3
+Z230 DPx9 vunit_lib 17 codec_builder_pkg 0 22 lMzaQB]AGo[9c?7g60J_93
+R25
+Z231 DPx4 ieee 11 numeric_bit 0 22 G2;d`f^X6V]cQEn8_38:i1
+Z232 DPx4 ieee 9 math_real 0 22 gNk<PdFJ<XNPcfef`f?Z81
+Z233 DPx4 ieee 12 math_complex 0 22 lndMRF4<kJnT_9]@:30S@3
+Z234 DPx9 vunit_lib 9 codec_pkg 0 22 VE]>YKnj@eiUJ<U1YSEXb3
+Z235 DPx9 vunit_lib 27 external_integer_vector_pkg 0 22 hl?S7F7[zeX8D09=mXj_W2
+Z236 DPx9 vunit_lib 22 integer_vector_ptr_pkg 0 22 dQHde;mb=n>VUWALE0?M33
+Z237 DPx9 vunit_lib 9 types_pkg 0 22 8X1EBI95Q8hI=Vi3D9DP;0
 R2
 R3
-!i122 63
+!i122 60
 R0
-Z268 8/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/testes/tb_BinaryDigit.vhd
-Z269 F/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/testes/tb_BinaryDigit.vhd
+Z238 8/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/testes/tb_BinaryDigit.vhd
+Z239 F/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/testes/tb_BinaryDigit.vhd
 l0
-R62
+R52
 VeZdN;[`k75J1zD5APC6fg3
 !s100 REZ_kKK2zd=H>`S1=_`0j1
 R7
 33
-Z270 !s110 1649871318
+Z240 !s110 1649968242
 !i10b 1
-Z271 !s108 1649871318.000000
-Z272 !s90 -quiet|-modelsimini|/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/testes/tb_BinaryDigit.vhd|
-Z273 !s107 /home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/testes/tb_BinaryDigit.vhd|
+Z241 !s108 1649968242.000000
+Z242 !s90 -quiet|-modelsimini|/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/testes/tb_BinaryDigit.vhd|
+!s107 /home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/testes/tb_BinaryDigit.vhd|
 !i113 1
 R12
 R13
 Atb
+R201
+R202
+R203
+R204
+R205
+R206
+R207
+R208
+R209
+R210
+R211
+R212
+R213
+R214
+R215
+R216
+R217
+R218
+R219
+R220
+R221
+R222
+R223
+R224
+R225
+R226
+R227
+R228
+R229
+R230
+R25
 R231
 R232
 R233
@@ -2099,57 +1881,57 @@ R234
 R235
 R236
 R237
-R238
-R239
-R240
-R241
-R242
-R243
-R244
-R245
-R246
-R247
-R248
-R249
-R250
-R251
-R252
-R253
-R254
-R255
-R256
-R257
-R258
-R259
-R260
-R28
-R261
-R262
-R263
-R264
-R265
-R266
-R267
 R2
 R3
 DEx4 work 14 tb_binarydigit 0 22 eZdN;[`k75J1zD5APC6fg3
-!i122 63
+!i122 60
 l30
-Z274 L16 52
+Z243 L16 52
 VKd=2>Jmm=9>NQb3Z;X8<62
 !s100 _Df=?QK0n=JAafNOPGKlB1
 R7
 33
-R270
+R240
 !i10b 1
-R271
-R272
-R273
+R241
+R242
+Z244 !s107 /home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/testes/tb_BinaryDigit.vhd|
 !i113 1
 R12
 R13
 Etb_flipflopd
 R1
+R201
+R202
+R203
+R204
+R205
+R206
+R207
+R208
+R209
+R210
+R211
+R212
+R213
+R214
+R215
+R216
+R217
+R218
+R219
+R220
+R221
+R222
+R223
+R224
+R225
+R226
+R227
+R228
+R229
+R230
+R25
 R231
 R232
 R233
@@ -2157,58 +1939,58 @@ R234
 R235
 R236
 R237
-R238
-R239
-R240
-R241
-R242
-R243
-R244
-R245
-R246
-R247
-R248
-R249
-R250
-R251
-R252
-R253
-R254
-R255
-R256
-R257
-R258
-R259
-R260
-R28
-R261
-R262
-R263
-R264
-R265
-R266
-R267
 R2
 R3
-!i122 62
+!i122 59
 R0
-Z275 8/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/testes/tb_FlipFlopD.vhd
-Z276 F/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/testes/tb_FlipFlopD.vhd
+Z245 8/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/testes/tb_FlipFlopD.vhd
+Z246 F/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/testes/tb_FlipFlopD.vhd
 l0
-R62
+R52
 VfHc44cLl@IDQ114>GSdm^1
 !s100 Mz2D0a_Fee>:O9S6F=zIz1
 R7
 33
-R270
+R240
 !i10b 1
-R271
-Z277 !s90 -quiet|-modelsimini|/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/testes/tb_FlipFlopD.vhd|
-Z278 !s107 /home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/testes/tb_FlipFlopD.vhd|
+Z247 !s108 1649968241.000000
+Z248 !s90 -quiet|-modelsimini|/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/testes/tb_FlipFlopD.vhd|
+Z249 !s107 /home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/testes/tb_FlipFlopD.vhd|
 !i113 1
 R12
 R13
 Atb
+R201
+R202
+R203
+R204
+R205
+R206
+R207
+R208
+R209
+R210
+R211
+R212
+R213
+R214
+R215
+R216
+R217
+R218
+R219
+R220
+R221
+R222
+R223
+R224
+R225
+R226
+R227
+R228
+R229
+R230
+R25
 R231
 R232
 R233
@@ -2216,57 +1998,57 @@ R234
 R235
 R236
 R237
-R238
-R239
-R240
-R241
-R242
-R243
-R244
-R245
-R246
-R247
-R248
-R249
-R250
-R251
-R252
-R253
-R254
-R255
-R256
-R257
-R258
-R259
-R260
-R28
-R261
-R262
-R263
-R264
-R265
-R266
-R267
 R2
 R3
 DEx4 work 12 tb_flipflopd 0 22 fHc44cLl@IDQ114>GSdm^1
-!i122 62
+!i122 59
 l34
-Z279 L16 65
+Z250 L16 65
 VIHiV[c8L:CBS]OB;O:EVN0
 !s100 a6MHG1EBa9Nb]mc;S:Oo40
 R7
 33
-R270
+R240
 !i10b 1
-R271
-R277
-R278
+R247
+R248
+R249
 !i113 1
 R12
 R13
 Etb_flipflopjk
-Z280 w1649873100
+R36
+R201
+R202
+R203
+R204
+R205
+R206
+R207
+R208
+R209
+R210
+R211
+R212
+R213
+R214
+R215
+R216
+R217
+R218
+R219
+R220
+R221
+R222
+R223
+R224
+R225
+R226
+R227
+R228
+R229
+R230
+R25
 R231
 R232
 R233
@@ -2274,58 +2056,58 @@ R234
 R235
 R236
 R237
-R238
-R239
-R240
-R241
-R242
-R243
-R244
-R245
-R246
-R247
-R248
-R249
-R250
-R251
-R252
-R253
-R254
-R255
-R256
-R257
-R258
-R259
-R260
-R28
-R261
-R262
-R263
-R264
-R265
-R266
-R267
 R2
 R3
-!i122 74
+!i122 58
 R0
-Z281 8/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/testes/tb_FlipFlopJK.vhd
-Z282 F/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/testes/tb_FlipFlopJK.vhd
+Z251 8/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/testes/tb_FlipFlopJK.vhd
+Z252 F/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/testes/tb_FlipFlopJK.vhd
 l0
-R109
+R92
 V;ocom`39c0fIi1;KJ]WIe1
 !s100 5Ha?hYBX1@HWhihk9G[PV3
 R7
 33
-Z283 !s110 1649873103
+Z253 !s110 1649968241
 !i10b 1
-Z284 !s108 1649873103.000000
-Z285 !s90 -quiet|-modelsimini|/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/testes/tb_FlipFlopJK.vhd|
-Z286 !s107 /home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/testes/tb_FlipFlopJK.vhd|
+R247
+Z254 !s90 -quiet|-modelsimini|/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/testes/tb_FlipFlopJK.vhd|
+Z255 !s107 /home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/testes/tb_FlipFlopJK.vhd|
 !i113 1
 R12
 R13
 Atb
+R201
+R202
+R203
+R204
+R205
+R206
+R207
+R208
+R209
+R210
+R211
+R212
+R213
+R214
+R215
+R216
+R217
+R218
+R219
+R220
+R221
+R222
+R223
+R224
+R225
+R226
+R227
+R228
+R229
+R230
+R25
 R231
 R232
 R233
@@ -2333,57 +2115,57 @@ R234
 R235
 R236
 R237
-R238
-R239
-R240
-R241
-R242
-R243
-R244
-R245
-R246
-R247
-R248
-R249
-R250
-R251
-R252
-R253
-R254
-R255
-R256
-R257
-R258
-R259
-R260
-R28
-R261
-R262
-R263
-R264
-R265
-R266
-R267
 R2
 R3
-Z287 DEx4 work 13 tb_flipflopjk 0 22 ;ocom`39c0fIi1;KJ]WIe1
-!i122 74
+DEx4 work 13 tb_flipflopjk 0 22 ;ocom`39c0fIi1;KJ]WIe1
+!i122 58
 l29
-Z288 L14 55
+L14 55
 V3HQ[ACeadOWaz`RIaeD>`0
 !s100 ZM]>U?9V7`MkoEiJU`O5N0
 R7
 33
-R283
+R253
 !i10b 1
-R284
-R285
-R286
+R247
+R254
+R255
 !i113 1
 R12
 R13
 Etb_flipflopt
-Z289 w1649871873
+R36
+R201
+R202
+R203
+R204
+R205
+R206
+R207
+R208
+R209
+R210
+R211
+R212
+R213
+R214
+R215
+R216
+R217
+R218
+R219
+R220
+R221
+R222
+R223
+R224
+R225
+R226
+R227
+R228
+R229
+R230
+R25
 R231
 R232
 R233
@@ -2391,58 +2173,58 @@ R234
 R235
 R236
 R237
-R238
-R239
-R240
-R241
-R242
-R243
-R244
-R245
-R246
-R247
-R248
-R249
-R250
-R251
-R252
-R253
-R254
-R255
-R256
-R257
-R258
-R259
-R260
-R28
-R261
-R262
-R263
-R264
-R265
-R266
-R267
 R2
 R3
-!i122 65
+!i122 57
 R0
-Z290 8/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/testes/tb_FlipFlopT.vhd
-Z291 F/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/testes/tb_FlipFlopT.vhd
+Z256 8/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/testes/tb_FlipFlopT.vhd
+Z257 F/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/testes/tb_FlipFlopT.vhd
 l0
-R109
+R92
 VTR@n0H[0;F0CjcAnZHYAD1
 !s100 jY2EJ8AT22>DF56gTj2jf1
 R7
 33
-Z292 !s110 1649871892
+R253
 !i10b 1
-Z293 !s108 1649871891.000000
-Z294 !s90 -quiet|-modelsimini|/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/testes/tb_FlipFlopT.vhd|
-Z295 !s107 /home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/testes/tb_FlipFlopT.vhd|
+R247
+Z258 !s90 -quiet|-modelsimini|/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/testes/tb_FlipFlopT.vhd|
+Z259 !s107 /home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/testes/tb_FlipFlopT.vhd|
 !i113 1
 R12
 R13
 Atb
+R201
+R202
+R203
+R204
+R205
+R206
+R207
+R208
+R209
+R210
+R211
+R212
+R213
+R214
+R215
+R216
+R217
+R218
+R219
+R220
+R221
+R222
+R223
+R224
+R225
+R226
+R227
+R228
+R229
+R230
+R25
 R231
 R232
 R233
@@ -2450,174 +2232,57 @@ R234
 R235
 R236
 R237
-R238
-R239
-R240
-R241
-R242
-R243
-R244
-R245
-R246
-R247
-R248
-R249
-R250
-R251
-R252
-R253
-R254
-R255
-R256
-R257
-R258
-R259
-R260
-R28
-R261
-R262
-R263
-R264
-R265
-R266
-R267
 R2
 R3
 DEx4 work 12 tb_flipflopt 0 22 TR@n0H[0;F0CjcAnZHYAD1
-!i122 65
+!i122 57
 l28
 L14 42
 VZ1lHmKE[LlY6Qd?<5`>?h0
 !s100 kLH=n^BOAfie@SE^45KBj1
 R7
 33
-R292
-!i10b 1
-R293
-R294
-R295
-!i113 1
-R12
-R13
-Etb_pc
-R1
-R231
-R232
-R233
-R234
-R235
-R236
-R237
-R238
-R239
-R240
-R241
-R242
-R243
-R244
-R245
-R246
-R247
-R248
-R249
-R250
-R251
-R252
 R253
-R254
-R255
-R256
-R257
+!i10b 1
+R247
 R258
 R259
-R260
-R28
-R261
-R262
-R263
-R264
-R265
-R266
-R267
-R2
-R3
-!i122 59
-R0
-Z296 8/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/testes/tb_PC.vhd
-Z297 F/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/testes/tb_PC.vhd
-l0
-R62
-V[D81CnT42QfXRm1@aNo2J3
-!s100 J1Nhc5dRMT]HPgKQlP41`2
-R7
-33
-R270
-!i10b 1
-R271
-Z298 !s90 -quiet|-modelsimini|/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/testes/tb_PC.vhd|
-Z299 !s107 /home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/testes/tb_PC.vhd|
-!i113 1
-R12
-R13
-Atb
-R231
-R232
-R233
-R234
-R235
-R236
-R237
-R238
-R239
-R240
-R241
-R242
-R243
-R244
-R245
-R246
-R247
-R248
-R249
-R250
-R251
-R252
-R253
-R254
-R255
-R256
-R257
-R258
-R259
-R260
-R28
-R261
-R262
-R263
-R264
-R265
-R266
-R267
-R2
-R3
-DEx4 work 5 tb_pc 0 22 [D81CnT42QfXRm1@aNo2J3
-!i122 59
-l36
-L16 70
-VkSb2C>@Sg9hd00Z615lWi2
-!s100 gTVPQ>S<;`ADO:mz?E8=V2
-R7
-33
-R270
-!i10b 1
-R271
-R298
-R299
 !i113 1
 R12
 R13
 Etb_ram4k
 R1
+R201
+R202
+R203
+R204
+R205
+R206
+R207
+R208
+R209
+R210
+R211
+R212
+R213
+R214
+R215
+R216
+R217
+R218
+R219
+R220
+R221
+R222
+R223
+R224
+R225
+R226
+R227
+R228
+R229
+R230
+R25
 R231
 R232
 R233
@@ -2625,58 +2290,58 @@ R234
 R235
 R236
 R237
-R238
-R239
-R240
-R241
-R242
-R243
-R244
-R245
-R246
-R247
-R248
-R249
-R250
-R251
-R252
-R253
-R254
-R255
-R256
-R257
-R258
-R259
-R260
-R28
-R261
-R262
-R263
-R264
-R265
-R266
-R267
 R2
 R3
-!i122 58
+!i122 56
 R0
-Z300 8/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/testes/tb_Ram4K.vhd
-Z301 F/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/testes/tb_Ram4K.vhd
+Z260 8/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/testes/tb_Ram4K.vhd
+Z261 F/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/testes/tb_Ram4K.vhd
 l0
-R62
+R52
 V=>6D5eeL;?13G@G71zeCU2
 !s100 S9=3b[obZ2Ifm=SDXZIHm0
 R7
 33
-R270
+R253
 !i10b 1
-Z302 !s108 1649871317.000000
-Z303 !s90 -quiet|-modelsimini|/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/testes/tb_Ram4K.vhd|
-Z304 !s107 /home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/testes/tb_Ram4K.vhd|
+R247
+Z262 !s90 -quiet|-modelsimini|/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/testes/tb_Ram4K.vhd|
+Z263 !s107 /home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/testes/tb_Ram4K.vhd|
 !i113 1
 R12
 R13
 Atb
+R201
+R202
+R203
+R204
+R205
+R206
+R207
+R208
+R209
+R210
+R211
+R212
+R213
+R214
+R215
+R216
+R217
+R218
+R219
+R220
+R221
+R222
+R223
+R224
+R225
+R226
+R227
+R228
+R229
+R230
+R25
 R231
 R232
 R233
@@ -2684,57 +2349,57 @@ R234
 R235
 R236
 R237
-R238
-R239
-R240
-R241
-R242
-R243
-R244
-R245
-R246
-R247
-R248
-R249
-R250
-R251
-R252
-R253
-R254
-R255
-R256
-R257
-R258
-R259
-R260
-R28
-R261
-R262
-R263
-R264
-R265
-R266
-R267
 R2
 R3
 DEx4 work 8 tb_ram4k 0 22 =>6D5eeL;?13G@G71zeCU2
-!i122 58
+!i122 56
 l34
-Z305 L16 119
+Z264 L16 119
 VNgj1Gf_aGa^4NKfMK_Ckg2
 !s100 BFQ_jZhlTB3TfccoV?;d<2
 R7
 33
-R270
+R253
 !i10b 1
-R302
-R303
-R304
+R247
+R262
+R263
 !i113 1
 R12
 R13
 Etb_ram512
 R1
+R201
+R202
+R203
+R204
+R205
+R206
+R207
+R208
+R209
+R210
+R211
+R212
+R213
+R214
+R215
+R216
+R217
+R218
+R219
+R220
+R221
+R222
+R223
+R224
+R225
+R226
+R227
+R228
+R229
+R230
+R25
 R231
 R232
 R233
@@ -2742,58 +2407,58 @@ R234
 R235
 R236
 R237
-R238
-R239
-R240
-R241
-R242
-R243
-R244
-R245
-R246
-R247
-R248
-R249
-R250
-R251
-R252
-R253
-R254
-R255
-R256
-R257
-R258
-R259
-R260
-R28
-R261
-R262
-R263
-R264
-R265
-R266
-R267
 R2
 R3
-!i122 57
+!i122 55
 R0
-Z306 8/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/testes/tb_Ram512.vhd
-Z307 F/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/testes/tb_Ram512.vhd
+Z265 8/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/testes/tb_Ram512.vhd
+Z266 F/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/testes/tb_Ram512.vhd
 l0
-R62
+R52
 V:TniVicX8?K4l3BY6h9i73
 !s100 l[>z```f9OPCKU2R:Hh8R1
 R7
 33
-Z308 !s110 1649871317
+R253
 !i10b 1
-R302
-Z309 !s90 -quiet|-modelsimini|/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/testes/tb_Ram512.vhd|
-Z310 !s107 /home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/testes/tb_Ram512.vhd|
+R247
+Z267 !s90 -quiet|-modelsimini|/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/testes/tb_Ram512.vhd|
+Z268 !s107 /home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/testes/tb_Ram512.vhd|
 !i113 1
 R12
 R13
 Atb
+R201
+R202
+R203
+R204
+R205
+R206
+R207
+R208
+R209
+R210
+R211
+R212
+R213
+R214
+R215
+R216
+R217
+R218
+R219
+R220
+R221
+R222
+R223
+R224
+R225
+R226
+R227
+R228
+R229
+R230
+R25
 R231
 R232
 R233
@@ -2801,57 +2466,57 @@ R234
 R235
 R236
 R237
-R238
-R239
-R240
-R241
-R242
-R243
-R244
-R245
-R246
-R247
-R248
-R249
-R250
-R251
-R252
-R253
-R254
-R255
-R256
-R257
-R258
-R259
-R260
-R28
-R261
-R262
-R263
-R264
-R265
-R266
-R267
 R2
 R3
 DEx4 work 9 tb_ram512 0 22 :TniVicX8?K4l3BY6h9i73
-!i122 57
+!i122 55
 l34
-R305
+R264
 VNhhS6>;z?AUYb_??T5TA[1
 !s100 QC3ejk5B^f0<Y;dZP>QQ10
 R7
 33
-R308
+R253
 !i10b 1
-R302
-R309
-R310
+R247
+R267
+R268
 !i113 1
 R12
 R13
 Etb_ram64
 R1
+R201
+R202
+R203
+R204
+R205
+R206
+R207
+R208
+R209
+R210
+R211
+R212
+R213
+R214
+R215
+R216
+R217
+R218
+R219
+R220
+R221
+R222
+R223
+R224
+R225
+R226
+R227
+R228
+R229
+R230
+R25
 R231
 R232
 R233
@@ -2859,58 +2524,58 @@ R234
 R235
 R236
 R237
-R238
-R239
-R240
-R241
-R242
-R243
-R244
-R245
-R246
-R247
-R248
-R249
-R250
-R251
-R252
-R253
-R254
-R255
-R256
-R257
-R258
-R259
-R260
-R28
-R261
-R262
-R263
-R264
-R265
-R266
-R267
 R2
 R3
-!i122 56
+!i122 54
 R0
-Z311 8/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/testes/tb_Ram64.vhd
-Z312 F/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/testes/tb_Ram64.vhd
+Z269 8/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/testes/tb_Ram64.vhd
+Z270 F/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/testes/tb_Ram64.vhd
 l0
-R62
+R52
 V[7Hg?PIf1`A6bH;:KPAF<3
 !s100 [fgR]GASWg6=mal6K<jlZ2
 R7
 33
-R308
+R253
 !i10b 1
-R302
-Z313 !s90 -quiet|-modelsimini|/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/testes/tb_Ram64.vhd|
-Z314 !s107 /home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/testes/tb_Ram64.vhd|
+R247
+Z271 !s90 -quiet|-modelsimini|/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/testes/tb_Ram64.vhd|
+Z272 !s107 /home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/testes/tb_Ram64.vhd|
 !i113 1
 R12
 R13
 Atb
+R201
+R202
+R203
+R204
+R205
+R206
+R207
+R208
+R209
+R210
+R211
+R212
+R213
+R214
+R215
+R216
+R217
+R218
+R219
+R220
+R221
+R222
+R223
+R224
+R225
+R226
+R227
+R228
+R229
+R230
+R25
 R231
 R232
 R233
@@ -2918,57 +2583,57 @@ R234
 R235
 R236
 R237
-R238
-R239
-R240
-R241
-R242
-R243
-R244
-R245
-R246
-R247
-R248
-R249
-R250
-R251
-R252
-R253
-R254
-R255
-R256
-R257
-R258
-R259
-R260
-R28
-R261
-R262
-R263
-R264
-R265
-R266
-R267
 R2
 R3
 DEx4 work 8 tb_ram64 0 22 [7Hg?PIf1`A6bH;:KPAF<3
-!i122 56
+!i122 54
 l34
 L16 99
 VBBLCTe1j9bdzIfWY0OB`e0
 !s100 OoUcloWF7[f`7LMoS3ln=1
 R7
 33
-R308
+R253
 !i10b 1
-R302
-R313
-R314
+R247
+R271
+R272
 !i113 1
 R12
 R13
 Etb_ram8
 R1
+R201
+R202
+R203
+R204
+R205
+R206
+R207
+R208
+R209
+R210
+R211
+R212
+R213
+R214
+R215
+R216
+R217
+R218
+R219
+R220
+R221
+R222
+R223
+R224
+R225
+R226
+R227
+R228
+R229
+R230
+R25
 R231
 R232
 R233
@@ -2976,58 +2641,58 @@ R234
 R235
 R236
 R237
-R238
-R239
-R240
-R241
-R242
-R243
-R244
-R245
-R246
-R247
-R248
-R249
-R250
-R251
-R252
-R253
-R254
-R255
-R256
-R257
-R258
-R259
-R260
-R28
-R261
-R262
-R263
-R264
-R265
-R266
-R267
 R2
 R3
-!i122 55
+!i122 53
 R0
-Z315 8/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/testes/tb_Ram8.vhd
-Z316 F/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/testes/tb_Ram8.vhd
+Z273 8/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/testes/tb_Ram8.vhd
+Z274 F/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/testes/tb_Ram8.vhd
 l0
-R62
+R52
 VUBHLN;M<bN6Hj2X]Ib7d:3
 !s100 Y@[3l6FJmbm8KH45_S7L80
 R7
 33
-R308
+R253
 !i10b 1
-R302
-Z317 !s90 -quiet|-modelsimini|/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/testes/tb_Ram8.vhd|
-Z318 !s107 /home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/testes/tb_Ram8.vhd|
+R247
+Z275 !s90 -quiet|-modelsimini|/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/testes/tb_Ram8.vhd|
+Z276 !s107 /home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/testes/tb_Ram8.vhd|
 !i113 1
 R12
 R13
 Atb
+R201
+R202
+R203
+R204
+R205
+R206
+R207
+R208
+R209
+R210
+R211
+R212
+R213
+R214
+R215
+R216
+R217
+R218
+R219
+R220
+R221
+R222
+R223
+R224
+R225
+R226
+R227
+R228
+R229
+R230
+R25
 R231
 R232
 R233
@@ -3035,57 +2700,57 @@ R234
 R235
 R236
 R237
-R238
-R239
-R240
-R241
-R242
-R243
-R244
-R245
-R246
-R247
-R248
-R249
-R250
-R251
-R252
-R253
-R254
-R255
-R256
-R257
-R258
-R259
-R260
-R28
-R261
-R262
-R263
-R264
-R265
-R266
-R267
 R2
 R3
 DEx4 work 7 tb_ram8 0 22 UBHLN;M<bN6Hj2X]Ib7d:3
-!i122 55
+!i122 53
 l34
-R279
+R250
 VaaP3jO[kE2E>cTfQUUSkm1
 !s100 MQ=<K@hcHE]gIeD7:^@0Z2
 R7
 33
-R308
+R253
 !i10b 1
-R302
-R317
-R318
+R247
+R275
+R276
 !i113 1
 R12
 R13
 Etb_register16
 R1
+R201
+R202
+R203
+R204
+R205
+R206
+R207
+R208
+R209
+R210
+R211
+R212
+R213
+R214
+R215
+R216
+R217
+R218
+R219
+R220
+R221
+R222
+R223
+R224
+R225
+R226
+R227
+R228
+R229
+R230
+R25
 R231
 R232
 R233
@@ -3093,58 +2758,58 @@ R234
 R235
 R236
 R237
-R238
-R239
-R240
-R241
-R242
-R243
-R244
-R245
-R246
-R247
-R248
-R249
-R250
-R251
-R252
-R253
-R254
-R255
-R256
-R257
-R258
-R259
-R260
-R28
-R261
-R262
-R263
-R264
-R265
-R266
-R267
 R2
 R3
-!i122 54
+!i122 52
 R0
-Z319 8/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/testes/tb_Register16.vhd
-Z320 F/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/testes/tb_Register16.vhd
+Z277 8/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/testes/tb_Register16.vhd
+Z278 F/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/testes/tb_Register16.vhd
 l0
-R62
+R52
 VneGCFDX;acZZ2Gi0=VNBK1
 !s100 B0ho:<MTRHJJGgA2N_GAD0
 R7
 33
-R308
+R253
 !i10b 1
-R302
-Z321 !s90 -quiet|-modelsimini|/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/testes/tb_Register16.vhd|
-Z322 !s107 /home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/testes/tb_Register16.vhd|
+R247
+Z279 !s90 -quiet|-modelsimini|/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/testes/tb_Register16.vhd|
+Z280 !s107 /home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/testes/tb_Register16.vhd|
 !i113 1
 R12
 R13
 Atb
+R201
+R202
+R203
+R204
+R205
+R206
+R207
+R208
+R209
+R210
+R211
+R212
+R213
+R214
+R215
+R216
+R217
+R218
+R219
+R220
+R221
+R222
+R223
+R224
+R225
+R226
+R227
+R228
+R229
+R230
+R25
 R231
 R232
 R233
@@ -3152,57 +2817,57 @@ R234
 R235
 R236
 R237
-R238
-R239
-R240
-R241
-R242
-R243
-R244
-R245
-R246
-R247
-R248
-R249
-R250
-R251
-R252
-R253
-R254
-R255
-R256
-R257
-R258
-R259
-R260
-R28
-R261
-R262
-R263
-R264
-R265
-R266
-R267
 R2
 R3
 DEx4 work 13 tb_register16 0 22 neGCFDX;acZZ2Gi0=VNBK1
-!i122 54
+!i122 52
 l32
-Z323 L16 53
+Z281 L16 53
 VFbQE38jBKL0e>@UeWX0SW3
 !s100 I604lb[IJ^nY<ASXgeJ;31
 R7
 33
-R308
+R253
 !i10b 1
-R302
-R321
-R322
+R247
+R279
+R280
 !i113 1
 R12
 R13
 Etb_register32
 R1
+R201
+R202
+R203
+R204
+R205
+R206
+R207
+R208
+R209
+R210
+R211
+R212
+R213
+R214
+R215
+R216
+R217
+R218
+R219
+R220
+R221
+R222
+R223
+R224
+R225
+R226
+R227
+R228
+R229
+R230
+R25
 R231
 R232
 R233
@@ -3210,58 +2875,58 @@ R234
 R235
 R236
 R237
-R238
-R239
-R240
-R241
-R242
-R243
-R244
-R245
-R246
-R247
-R248
-R249
-R250
-R251
-R252
-R253
-R254
-R255
-R256
-R257
-R258
-R259
-R260
-R28
-R261
-R262
-R263
-R264
-R265
-R266
-R267
 R2
 R3
-!i122 53
+!i122 51
 R0
-Z324 8/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/testes/tb_Register32.vhd
-Z325 F/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/testes/tb_Register32.vhd
+Z282 8/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/testes/tb_Register32.vhd
+Z283 F/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/testes/tb_Register32.vhd
 l0
-R62
+R52
 VSJ0`l8SZa2l=_YO77RYHV0
 !s100 W3LMbeI<dMFOf]X`Ylj^02
 R7
 33
-R308
+R253
 !i10b 1
-R302
-Z326 !s90 -quiet|-modelsimini|/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/testes/tb_Register32.vhd|
-Z327 !s107 /home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/testes/tb_Register32.vhd|
+R247
+Z284 !s90 -quiet|-modelsimini|/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/testes/tb_Register32.vhd|
+Z285 !s107 /home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/testes/tb_Register32.vhd|
 !i113 1
 R12
 R13
 Atb
+R201
+R202
+R203
+R204
+R205
+R206
+R207
+R208
+R209
+R210
+R211
+R212
+R213
+R214
+R215
+R216
+R217
+R218
+R219
+R220
+R221
+R222
+R223
+R224
+R225
+R226
+R227
+R228
+R229
+R230
+R25
 R231
 R232
 R233
@@ -3269,57 +2934,57 @@ R234
 R235
 R236
 R237
-R238
-R239
-R240
-R241
-R242
-R243
-R244
-R245
-R246
-R247
-R248
-R249
-R250
-R251
-R252
-R253
-R254
-R255
-R256
-R257
-R258
-R259
-R260
-R28
-R261
-R262
-R263
-R264
-R265
-R266
-R267
 R2
 R3
 DEx4 work 13 tb_register32 0 22 SJ0`l8SZa2l=_YO77RYHV0
-!i122 53
+!i122 51
 l32
-R323
+R281
 VBB2zbhlVLSg>K5RU7:VkS2
 !s100 I>Fbf_[e0E>SXZWe5HRKD1
 R7
 33
-R308
+R253
 !i10b 1
-R302
-R326
-R327
+R247
+R284
+R285
 !i113 1
 R12
 R13
 Etb_register64
 R1
+R201
+R202
+R203
+R204
+R205
+R206
+R207
+R208
+R209
+R210
+R211
+R212
+R213
+R214
+R215
+R216
+R217
+R218
+R219
+R220
+R221
+R222
+R223
+R224
+R225
+R226
+R227
+R228
+R229
+R230
+R25
 R231
 R232
 R233
@@ -3327,58 +2992,58 @@ R234
 R235
 R236
 R237
-R238
-R239
-R240
-R241
-R242
-R243
-R244
-R245
-R246
-R247
-R248
-R249
-R250
-R251
-R252
-R253
-R254
-R255
-R256
-R257
-R258
-R259
-R260
-R28
-R261
-R262
-R263
-R264
-R265
-R266
-R267
 R2
 R3
-!i122 52
+!i122 50
 R0
-Z328 8/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/testes/tb_Register64.vhd
-Z329 F/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/testes/tb_Register64.vhd
+Z286 8/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/testes/tb_Register64.vhd
+Z287 F/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/testes/tb_Register64.vhd
 l0
-R62
+R52
 V>E:WiDI``GMka=5UM>kU80
 !s100 _BznoGzmY[T[:okRZGRm52
 R7
 33
-R308
+R253
 !i10b 1
-R302
-Z330 !s90 -quiet|-modelsimini|/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/testes/tb_Register64.vhd|
-Z331 !s107 /home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/testes/tb_Register64.vhd|
+R247
+Z288 !s90 -quiet|-modelsimini|/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/testes/tb_Register64.vhd|
+Z289 !s107 /home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/testes/tb_Register64.vhd|
 !i113 1
 R12
 R13
 Atb
+R201
+R202
+R203
+R204
+R205
+R206
+R207
+R208
+R209
+R210
+R211
+R212
+R213
+R214
+R215
+R216
+R217
+R218
+R219
+R220
+R221
+R222
+R223
+R224
+R225
+R226
+R227
+R228
+R229
+R230
+R25
 R231
 R232
 R233
@@ -3386,57 +3051,57 @@ R234
 R235
 R236
 R237
-R238
-R239
-R240
-R241
-R242
-R243
-R244
-R245
-R246
-R247
-R248
-R249
-R250
-R251
-R252
-R253
-R254
-R255
-R256
-R257
-R258
-R259
-R260
-R28
-R261
-R262
-R263
-R264
-R265
-R266
-R267
 R2
 R3
 DEx4 work 13 tb_register64 0 22 >E:WiDI``GMka=5UM>kU80
-!i122 52
+!i122 50
 l32
-R323
+R281
 V35O2n8Y5Y1DOdc2XSPB:A1
 !s100 _QIf<:8PL@ZjN;;_P?gFU1
 R7
 33
-R308
+R253
 !i10b 1
-R302
-R330
-R331
+R247
+R288
+R289
 !i113 1
 R12
 R13
 Etb_register8
 R1
+R201
+R202
+R203
+R204
+R205
+R206
+R207
+R208
+R209
+R210
+R211
+R212
+R213
+R214
+R215
+R216
+R217
+R218
+R219
+R220
+R221
+R222
+R223
+R224
+R225
+R226
+R227
+R228
+R229
+R230
+R25
 R231
 R232
 R233
@@ -3444,58 +3109,58 @@ R234
 R235
 R236
 R237
-R238
-R239
-R240
-R241
-R242
-R243
-R244
-R245
-R246
-R247
-R248
-R249
-R250
-R251
-R252
-R253
-R254
-R255
-R256
-R257
-R258
-R259
-R260
-R28
-R261
-R262
-R263
-R264
-R265
-R266
-R267
 R2
 R3
-!i122 51
+!i122 49
 R0
-Z332 8/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/testes/tb_Register8.vhd
-Z333 F/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/testes/tb_Register8.vhd
+Z290 8/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/testes/tb_Register8.vhd
+Z291 F/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/testes/tb_Register8.vhd
 l0
-R62
+R52
 Vge:MDKDbHAAL_cJ9i[6Q^1
 !s100 >fTU?2ZCn[TWhMe34oW7;2
 R7
 33
-R308
+R253
 !i10b 1
-R302
-Z334 !s90 -quiet|-modelsimini|/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/testes/tb_Register8.vhd|
-Z335 !s107 /home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/testes/tb_Register8.vhd|
+R247
+Z292 !s90 -quiet|-modelsimini|/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/testes/tb_Register8.vhd|
+Z293 !s107 /home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/testes/tb_Register8.vhd|
 !i113 1
 R12
 R13
 Atb
+R201
+R202
+R203
+R204
+R205
+R206
+R207
+R208
+R209
+R210
+R211
+R212
+R213
+R214
+R215
+R216
+R217
+R218
+R219
+R220
+R221
+R222
+R223
+R224
+R225
+R226
+R227
+R228
+R229
+R230
+R25
 R231
 R232
 R233
@@ -3503,645 +3168,130 @@ R234
 R235
 R236
 R237
-R238
-R239
-R240
-R241
-R242
-R243
-R244
-R245
-R246
-R247
-R248
-R249
-R250
-R251
-R252
-R253
-R254
-R255
-R256
-R257
-R258
-R259
-R260
-R28
-R261
-R262
-R263
-R264
-R265
-R266
-R267
 R2
 R3
 DEx4 work 12 tb_register8 0 22 ge:MDKDbHAAL_cJ9i[6Q^1
-!i122 51
+!i122 49
 l32
-R274
+R243
 VEaM<N?99684DFW03eKFfl1
 !s100 63e6UF7nF;eGd3djL28R03
 R7
 33
-R308
+R253
 !i10b 1
-R302
-R334
-R335
+R247
+R292
+R293
 !i113 1
 R12
 R13
 Etoplevel
-Z336 w1649871310
-R28
-R2
-R3
-!i122 33
-R0
-Z337 8/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/B-LogicaCombinacional/src/TopLevel.vhd
-Z338 F/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/B-LogicaCombinacional/src/TopLevel.vhd
-=======
-!i122 16
-l21
-L16 10
-Vjc;aKzSf=Z6iJFkA]KN503
-!s100 2ERYS4Dllah5lk3jC0?F[2
-R6
-33
-R7
-!i10b 1
-R8
-R35
 R36
-!i113 1
-R11
-R12
-Epc
-R1
-Z37 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
+R25
 R2
 R3
-!i122 12
+!i122 31
 R0
-Z38 8/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/src/PC.vhd
-Z39 F/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/src/PC.vhd
-l0
-L16 1
-VzaQSMhREHbJK:GJ=aSh4H2
-!s100 [X=gb6SiLihcOc_HL>:i<2
-R6
-33
-R7
-!i10b 1
-R8
-Z40 !s90 -quiet|-modelsimini|/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/src/PC.vhd|
-Z41 !s107 /home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/src/PC.vhd|
-!i113 1
-R11
-R12
-Aarch
-R37
-R2
-R3
-DEx4 work 2 pc 0 22 zaQSMhREHbJK:GJ=aSh4H2
-!i122 12
-l47
-L27 24
-VD5T?j^TV]A[28?TiG`EAQ2
-!s100 o9_^J3dKk0CIl^RXaJdSD3
-R6
-33
-R7
-!i10b 1
-R8
-R40
-R41
-!i113 1
-R11
-R12
-Eram4k
-R1
-R2
-R3
-!i122 11
-R0
-Z42 8/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/src/Ram4K.vhd
-Z43 F/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/src/Ram4K.vhd
-l0
-L8 1
-Vz8dhdjLKA6AlXRDQnUY4b0
-!s100 ESk?XNEfJCWi[LAlUVY:i3
-R6
-33
-R7
-!i10b 1
-R8
-Z44 !s90 -quiet|-modelsimini|/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/src/Ram4K.vhd|
-Z45 !s107 /home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/src/Ram4K.vhd|
-!i113 1
-R11
-R12
-Aarch
-R2
-R3
-DEx4 work 5 ram4k 0 22 z8dhdjLKA6AlXRDQnUY4b0
-!i122 11
-l61
-Z46 L18 47
-VSh[@BglPK72h9gXIB`o^90
-!s100 kd?>a7=a5B6`QIlTL<6Di0
-R6
-33
-R7
-!i10b 1
-R8
-R44
-R45
-!i113 1
-R11
-R12
-Eram512
-R1
-R2
-R3
-!i122 10
-R0
-Z47 8/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/src/Ram512.vhd
-Z48 F/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/src/Ram512.vhd
-l0
-L8 1
-V8[<08i[R4ikhzV`Li1VTh1
-!s100 1@Ji=O6R2bCM?3<4JVEVe1
-R6
-33
-R7
-!i10b 1
-R8
-Z49 !s90 -quiet|-modelsimini|/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/src/Ram512.vhd|
-Z50 !s107 /home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/src/Ram512.vhd|
-!i113 1
-R11
-R12
-Aarch
-R2
-R3
-DEx4 work 6 ram512 0 22 8[<08i[R4ikhzV`Li1VTh1
-!i122 10
-l61
-R46
-Vhk_k7>:kZ@:VOD`<D5P5@3
-!s100 z22T`J6H?E><^NJ>Bi?df1
-R6
-33
-R7
-!i10b 1
-R8
-R49
-R50
-!i113 1
-R11
-R12
-Eram64
-R1
-R2
-R3
-!i122 9
-R0
-Z51 8/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/src/Ram64.vhd
-Z52 F/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/src/Ram64.vhd
-l0
-L8 1
-VHRL`C4[eJ50a:k2gb[ecM2
-!s100 gg_:9eMG?gXI@fHk9bKn=3
-R6
-33
-R7
-!i10b 1
-R8
-Z53 !s90 -quiet|-modelsimini|/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/src/Ram64.vhd|
-Z54 !s107 /home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/src/Ram64.vhd|
-!i113 1
-R11
-R12
-Aarch
-R2
-R3
-DEx4 work 5 ram64 0 22 HRL`C4[eJ50a:k2gb[ecM2
-!i122 9
-l61
-R46
-VHD`Pk83jE5m;:`WEO[JV11
-!s100 EXo[@o=MmjB[7QJ?cW27K1
-R6
-33
-R7
-!i10b 1
-R8
-R53
-R54
-!i113 1
-R11
-R12
-Eram8
-R1
-R2
-R3
-!i122 8
-R0
-Z55 8/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/src/Ram8.vhd
-Z56 F/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/src/Ram8.vhd
-l0
-L8 1
-VVj4LCZ8Lb8=jZ@YcZTX@g2
-!s100 R5mZ`al9n>P1>n^5Jl6z_1
-R6
-33
-R7
-!i10b 1
-R8
-Z57 !s90 -quiet|-modelsimini|/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/src/Ram8.vhd|
-Z58 !s107 /home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/src/Ram8.vhd|
-!i113 1
-R11
-R12
-Aarch
-R2
-R3
-DEx4 work 4 ram8 0 22 Vj4LCZ8Lb8=jZ@YcZTX@g2
-!i122 8
-l60
-L18 46
-Vf:1Kb7h_Wl6UHPK4z1_Fz0
-!s100 [5@gV:SLaghfjfKZ[l]BD0
-R6
-33
-R7
-!i10b 1
-R8
-R57
-R58
-!i113 1
-R11
-R12
-Eregister16
-R1
-R2
-R3
-!i122 7
-R0
-Z59 8/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/src/Register16.vhd
-Z60 F/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/src/Register16.vhd
-l0
-L8 1
-VLBR;A=e>>e_QSBKCXWa5d3
-!s100 n^CUeJ^:id2hXcoBoB>TS3
-R6
-33
-R7
-!i10b 1
-R8
-Z61 !s90 -quiet|-modelsimini|/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/src/Register16.vhd|
-Z62 !s107 /home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/src/Register16.vhd|
-!i113 1
-R11
-R12
-Aarch
-R2
-R3
-DEx4 work 10 register16 0 22 LBR;A=e>>e_QSBKCXWa5d3
-!i122 7
-l28
-Z63 L17 15
-Vj0D]bK7X96N_A^^];hcl=1
-!s100 YnFM]HZCl7OTF60hcb0Y41
-R6
-33
-R7
-!i10b 1
-R8
-R61
-R62
-!i113 1
-R11
-R12
-Eregister32
-R1
-R2
-R3
-!i122 6
-R0
-Z64 8/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/src/Register32.vhd
-Z65 F/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/src/Register32.vhd
-l0
-L8 1
-VP]c@k:W8fWg]Xko[>MWb^1
-!s100 []:^=AY8a3]ML1PkdZ@Ea3
-R6
-33
-R7
-!i10b 1
-R8
-Z66 !s90 -quiet|-modelsimini|/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/src/Register32.vhd|
-Z67 !s107 /home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/src/Register32.vhd|
-!i113 1
-R11
-R12
-Aarch
-R2
-R3
-DEx4 work 10 register32 0 22 P]c@k:W8fWg]Xko[>MWb^1
-!i122 6
-l28
-R63
-V]3P?FSXNh>CVl8]SYkW9`1
-!s100 aTL;jbJ3PazM1NWBhhD_g3
-R6
-33
-R7
-!i10b 1
-R8
-R66
-R67
-!i113 1
-R11
-R12
-Eregister64
-R1
-R2
-R3
-!i122 5
-R0
-Z68 8/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/src/Register64.vhd
-Z69 F/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/src/Register64.vhd
-l0
-L8 1
-V;LzQ2fOcY6f?Oc68WJCXG2
-!s100 LCbS]1neA;d2ePolK?XW]3
-R6
-33
-R7
-!i10b 1
-R8
-Z70 !s90 -quiet|-modelsimini|/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/src/Register64.vhd|
-Z71 !s107 /home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/src/Register64.vhd|
-!i113 1
-R11
-R12
-Aarch
-R2
-R3
-DEx4 work 10 register64 0 22 ;LzQ2fOcY6f?Oc68WJCXG2
-!i122 5
-l28
-L17 14
-VHkA^2Z3?mIB4GnVQcCiOY3
-!s100 c9EJ1e>]RZ`Ehme2lkE5n3
-R6
-33
-R7
-!i10b 1
-R8
-R70
-R71
-!i113 1
-R11
-R12
-Eregister8
-R1
-R2
-R3
-!i122 4
-R0
-Z72 8/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/src/Register8.vhd
-Z73 F/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/src/Register8.vhd
-l0
-L8 1
-V9P<nc9YOOPP_Z`H4KFKkR3
-!s100 RH;m?0bQIi^ohZMhS9XdS0
-R6
-33
-R7
-!i10b 1
-R8
-Z74 !s90 -quiet|-modelsimini|/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/src/Register8.vhd|
-Z75 !s107 /home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/src/Register8.vhd|
-!i113 1
-R11
-R12
-Aarch
-R2
-R3
-DEx4 work 9 register8 0 22 9P<nc9YOOPP_Z`H4KFKkR3
-!i122 4
-l28
-R63
-VkfB5Gz3894K=P03aMO]MM0
-!s100 NMTFBP[;Maoz:;oX_Dhd71
-R6
-33
-R7
-!i10b 1
-R8
-R74
-R75
-!i113 1
-R11
-R12
-Etoplevel
-R1
-R37
-R2
-R3
-!i122 19
-R0
-Z76 8/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/C-UnidadeLogicaAritmetica/src/TopLevel.vhd
-Z77 F/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/C-UnidadeLogicaAritmetica/src/TopLevel.vhd
->>>>>>> main
+Z294 8/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/B-LogicaCombinacional/src/TopLevel.vhd
+Z295 F/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/B-LogicaCombinacional/src/TopLevel.vhd
 l0
 L19 1
 V]eWF?0KXAmW1gZIjLVX9Q1
 !s100 zEV@3?OdaPLVI0=kFg:0W0
-<<<<<<< HEAD
 R7
 33
-R176
+R8
 !i10b 1
-R171
-Z339 !s90 -quiet|-modelsimini|/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/B-LogicaCombinacional/src/TopLevel.vhd|
-Z340 !s107 /home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/B-LogicaCombinacional/src/TopLevel.vhd|
+R9
+Z296 !s90 -quiet|-modelsimini|/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/B-LogicaCombinacional/src/TopLevel.vhd|
+Z297 !s107 /home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/B-LogicaCombinacional/src/TopLevel.vhd|
 !i113 1
 R12
 R13
 Artl
-R28
+R25
 R2
 R3
 DEx4 work 8 toplevel 0 22 ]eWF?0KXAmW1gZIjLVX9Q1
-!i122 33
+!i122 31
 l105
 L33 146
 VLCBjElSEJn9Gg1l9:OnbT3
 !s100 [261li;O84kJCC_8ACmnF1
 R7
 33
-R176
+R8
 !i10b 1
-R171
-R339
-R340
+R9
+R296
+R297
 !i113 1
 R12
 R13
-=======
-R6
-33
-Z78 !s110 1648817874
-!i10b 1
-Z79 !s108 1648817874.000000
-Z80 !s90 -quiet|-modelsimini|/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/C-UnidadeLogicaAritmetica/src/TopLevel.vhd|
-!s107 /home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/C-UnidadeLogicaAritmetica/src/TopLevel.vhd|
-!i113 1
-R11
-R12
-Artl
-R37
-R2
-R3
-DEx4 work 8 toplevel 0 22 ]eWF?0KXAmW1gZIjLVX9Q1
-!i122 19
-l75
-L33 84
-VSDLN3NBmQo<Mh`B:OX30Q1
-!s100 ZR1SnAG6@;zYI0lf9PV_B1
-R6
-33
-R78
-!i10b 1
-R79
-R80
-Z81 !s107 /home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/C-UnidadeLogicaAritmetica/src/TopLevel.vhd|
-!i113 1
-R11
-R12
->>>>>>> main
 Exor16
 R1
 R2
 R3
-!i122 18
+!i122 17
 R0
-<<<<<<< HEAD
-Z341 8/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/C-UnidadeLogicaAritmetica/src/Xor16.vhd
-Z342 F/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/C-UnidadeLogicaAritmetica/src/Xor16.vhd
-=======
-Z82 8/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/C-UnidadeLogicaAritmetica/src/Xor16.vhd
-Z83 F/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/C-UnidadeLogicaAritmetica/src/Xor16.vhd
->>>>>>> main
+Z298 8/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/C-UnidadeLogicaAritmetica/src/Xor16.vhd
+Z299 F/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/C-UnidadeLogicaAritmetica/src/Xor16.vhd
 l0
 L4 1
 VA]7md7CkCV:6DLO:cU_L`2
 !s100 840[oPle3VWd[bU@9?bOC1
-<<<<<<< HEAD
 R7
 33
-R44
+R8
 !i10b 1
-R45
-Z343 !s90 -quiet|-modelsimini|/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/C-UnidadeLogicaAritmetica/src/Xor16.vhd|
-Z344 !s107 /home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/C-UnidadeLogicaAritmetica/src/Xor16.vhd|
+R9
+Z300 !s90 -quiet|-modelsimini|/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/C-UnidadeLogicaAritmetica/src/Xor16.vhd|
+Z301 !s107 /home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/C-UnidadeLogicaAritmetica/src/Xor16.vhd|
 !i113 1
 R12
 R13
-=======
-R6
-33
-R78
-!i10b 1
-R8
-Z84 !s90 -quiet|-modelsimini|/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/C-UnidadeLogicaAritmetica/src/Xor16.vhd|
-Z85 !s107 /home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/C-UnidadeLogicaAritmetica/src/Xor16.vhd|
-!i113 1
-R11
-R12
->>>>>>> main
 Aarch
 R2
 R3
 DEx4 work 5 xor16 0 22 A]7md7CkCV:6DLO:cU_L`2
-!i122 18
+!i122 17
 l12
-<<<<<<< HEAD
-R26
+R24
 V3D6ST97<Y9OZ7TnCXOOGO3
 !s100 dGjfi39C7WHk`XI@oRPX_2
 R7
 33
-R44
+R8
 !i10b 1
-R45
-R343
-R344
+R9
+R300
+R301
 !i113 1
 R12
 R13
 Ezerador16
-R54
-=======
-L11 4
-V3D6ST97<Y9OZ7TnCXOOGO3
-!s100 dGjfi39C7WHk`XI@oRPX_2
-R6
-33
-R78
-!i10b 1
-R8
-R84
-R85
-!i113 1
-R11
-R12
-Ezerador16
 R1
->>>>>>> main
 R2
 R3
 !i122 15
 R0
-<<<<<<< HEAD
-Z345 8/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/C-UnidadeLogicaAritmetica/src/zerador16.vhd
-Z346 F/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/C-UnidadeLogicaAritmetica/src/zerador16.vhd
-=======
-Z86 8/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/C-UnidadeLogicaAritmetica/src/zerador16.vhd
-Z87 F/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/C-UnidadeLogicaAritmetica/src/zerador16.vhd
->>>>>>> main
+Z302 8/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/C-UnidadeLogicaAritmetica/src/zerador16.vhd
+Z303 F/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/C-UnidadeLogicaAritmetica/src/zerador16.vhd
 l0
 L8 1
 VnHjHn^^b>WhfhGLTYS^N30
 !s100 GFgmn:R<h:[ci`T3hP7g?0
-<<<<<<< HEAD
 R7
 33
-R44
+R8
 !i10b 1
-R45
-Z347 !s90 -quiet|-modelsimini|/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/C-UnidadeLogicaAritmetica/src/zerador16.vhd|
-Z348 !s107 /home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/C-UnidadeLogicaAritmetica/src/zerador16.vhd|
+R9
+Z304 !s90 -quiet|-modelsimini|/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/C-UnidadeLogicaAritmetica/src/zerador16.vhd|
+Z305 !s107 /home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/C-UnidadeLogicaAritmetica/src/zerador16.vhd|
 !i113 1
 R12
 R13
-=======
-R6
-33
-R7
-!i10b 1
-R8
-Z88 !s90 -quiet|-modelsimini|/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/C-UnidadeLogicaAritmetica/src/zerador16.vhd|
-Z89 !s107 /home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/C-UnidadeLogicaAritmetica/src/zerador16.vhd|
-!i113 1
-R11
-R12
->>>>>>> main
 Artl
 R2
 R3
@@ -4151,26 +3301,13 @@ l21
 L16 11
 Ve;bkE^SeR]Q_0a[BV<VAV0
 !s100 ^j0S7:cE5`h:e<8N@d79S2
-<<<<<<< HEAD
 R7
 33
-R44
+R8
 !i10b 1
-R45
-R347
-R348
+R9
+R304
+R305
 !i113 1
 R12
 R13
-=======
-R6
-33
-R7
-!i10b 1
-R8
-R88
-R89
-!i113 1
-R11
-R12
->>>>>>> main
