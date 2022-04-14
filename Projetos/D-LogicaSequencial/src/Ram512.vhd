@@ -59,6 +59,88 @@ architecture arch of Ram512 is
 	signal output0, output1, output2, output3, output4, output5, output6, output7 : STD_LOGIC_VECTOR(15 downto 0);
 
 begin
+	Dmux1 : DMux8Way port map (
+	a => load,
+	sel => address(8 downto 6),
+	q0 => load0,
+	q1 => load1,
+	q2 => load2,
+	q3 => load3,
+	q4 => load4,
+	q5 => load5,
+	q6 => load6,
+	q7 => load7
+	);
 
+	mux8way16_1 : Mux8Way16 port map (
+	a => output0,
+	b => output1,
+	c => output2,
+	d => output3,
+	e => output4,
+	f => output5,
+	g => output6,
+	h => output7,
+	sel => address(8 downto 6),
+	q => output
+	);
+
+	r64_1 : Ram64 port map(
+		clock => clock,
+		input => input,
+		load => load0,
+		output => output0,
+		address => address(5 downto 0)
+	);
+	
+	r64_2 : Ram64 port map(
+		clock => clock,
+		input => input,
+		load => load1,
+		output => output1,
+		address => address(5 downto 0)
+	);
+	r64_3 : Ram64 port map(
+		clock => clock,
+		input => input,
+		load => load2,
+		output => output2,
+		address => address(5 downto 0)
+	);
+	r64_4 : Ram64 port map(
+		clock => clock,
+		input => input,
+		load => load3,
+		output => output3,
+		address => address(5 downto 0)
+	);
+	r64_5 : Ram64 port map(
+		clock => clock,
+		input => input,
+		load => load4,
+		output => output4,
+		address => address(5 downto 0)
+	);
+	r64_6 : Ram64 port map(
+		clock => clock,
+		input => input,
+		load => load5,
+		output => output5,
+		address => address(5 downto 0)
+	);
+	r64_7 : Ram64 port map(
+		clock => clock,
+		input => input,
+		load => load6,
+		output => output6,
+		address => address(5 downto 0)
+	);
+	r64_8 : Ram64 port map(
+		clock => clock,
+		input => input,
+		load => load7,
+		output => output7,
+		address => address(5 downto 0)
+	);
 
 end architecture;
