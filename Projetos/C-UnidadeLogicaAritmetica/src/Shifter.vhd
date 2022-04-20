@@ -1,25 +1,19 @@
--- Elementos de Sistemas
--- by Luciano Soares
--- inversor16.vhd
-
 library IEEE;
-use IEEE.STD_LOGIC_1164.all;
+use IEEE.STD_LOGIC_1164.ALL;
+use IEEE.numeric_std.all;
 
-entity inversor16 is
-  port(
-        z   : in STD_LOGIC;
-        a   : in STD_LOGIC_VECTOR(15 downto 0);
-        y   : out STD_LOGIC_VECTOR(15 downto 0)
-      );
+entity BarrelShifter16 is
+	port ( 
+			a:    in  STD_LOGIC_VECTOR(15 downto 0);   -- input vector
+			dir:  in  std_logic;                       -- 0=>left 1=>right
+			size: in  std_logic_vector(2 downto 0);    -- shift amount
+			q:    out STD_LOGIC_VECTOR(15 downto 0));  -- output vector (shifted)
 end entity;
 
-architecture rtl of inversor16 is
-  -- Aqui declaramos sinais (fios auxiliares)
-  -- e componentes (outros módulos) que serao
-  -- utilizados nesse modulo.
-
+architecture rtl of BarrelShifter16 is
 begin
-  y <= not(a) when z else
-        a;
+	q <= STD_LOGIC_VECTOR(shift_left(unsigned(a), to_integer(unsigned(size)))) when dir = '0' else
+	STD_LOGIC_VECTOR(shift_right(unsigned(a), to_integer(unsigned(size))));
+
 
 end architecture;
