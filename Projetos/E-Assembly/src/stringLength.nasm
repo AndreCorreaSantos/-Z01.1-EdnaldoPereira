@@ -25,5 +25,39 @@
 ;  RAM[13] = `z`
 ;  RAM[14] = `?`
 ;  RAM[15] = NULL = 0x0000
+leaw $0, %A 
+movw $0, %D 
+movw %D, (%A)
+leaw $1, %A 
+movw $0, %D 
+movw %D, (%A)
+incw %D
+incw %D
+incw %D
+incw %D
+incw %D
+incw %D
+incw %D
+movw %D, (%A)
+LOOP:
+    leaw $1, %A 
+    movw (%A), %D
+    incw %D
+    movw %D, (%A)
+    movw %D, %A     
+    movw (%A), %D
 
+    leaw $END, %A 
+    jle %D
+    nop
 
+    leaw $0, %A 
+    movw (%A), %D 
+    incw %D 
+    movw %D, (%A)
+
+    leaw $LOOP, %A 
+    jmp
+    nop
+
+END:

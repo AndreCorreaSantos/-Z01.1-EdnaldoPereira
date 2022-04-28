@@ -1,5 +1,5 @@
 onerror {quit -code 1}
-source "/home/borg/Desktop/ELESIS/Projetos/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/vunit_out/test_output/lib.tb_flipflopjk.all_9d64ce8fdac1f786e8a805d2925482d388c3ef65/modelsim/common.do"
+source "/home/borg/Desktop/-Z01.1-EdnaldoPereira/Projetos/D-LogicaSequencial/vunit_out/test_output/lib.tb_flipflopjk.all_9d64ce8fdac1f786e8a805d2925482d388c3ef65/modelsim/common.do"
 set failed [vunit_load]
 if {$failed} {quit -code 1}
 set failed [vunit_run]
